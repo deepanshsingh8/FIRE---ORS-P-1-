@@ -1,1 +1,1001 @@
-,UserID,FoodID,tag,Timestamp
+UserID,FoodID,tag
+13,21,Tasty
+15,18,wonderful
+13,36,wow
+11,40,so good
+12,14,amazing
+18,5,Tasty
+13,50,wonderful
+9,27,wow
+13,52,so good
+6,5,amazing
+9,21,Tasty
+11,40,wonderful
+9,32,wow
+6,9,so good
+10,53,amazing
+16,41,Tasty
+10,49,wonderful
+13,40,wow
+6,27,so good
+4,10,amazing
+6,32,Tasty
+20,7,wonderful
+3,36,wow
+7,21,so good
+19,3,amazing
+7,33,Tasty
+3,57,wonderful
+9,54,wow
+8,5,so good
+5,8,amazing
+6,55,Tasty
+7,44,wonderful
+8,13,wow
+7,16,so good
+20,29,amazing
+11,2,Tasty
+2,11,wonderful
+14,16,wow
+2,39,so good
+7,37,amazing
+11,27,Tasty
+16,29,wonderful
+11,2,wow
+3,54,so good
+9,39,amazing
+12,44,Tasty
+13,20,wonderful
+10,43,wow
+10,18,so good
+4,31,amazing
+15,29,Tasty
+8,13,wonderful
+8,21,wow
+7,19,so good
+16,12,amazing
+7,29,Tasty
+17,34,wonderful
+14,46,wow
+13,43,so good
+1,37,amazing
+17,15,Tasty
+5,4,wonderful
+5,42,wow
+20,26,so good
+13,43,amazing
+6,39,Tasty
+9,37,wonderful
+1,16,wow
+13,6,so good
+16,20,amazing
+17,57,Tasty
+16,16,wonderful
+17,51,wow
+11,17,so good
+19,2,amazing
+7,22,Tasty
+8,28,wonderful
+6,34,wow
+16,7,so good
+1,4,amazing
+7,54,Tasty
+12,57,wonderful
+14,24,wow
+9,33,so good
+19,31,amazing
+3,45,Tasty
+18,51,wonderful
+15,22,wow
+16,14,so good
+15,34,amazing
+12,8,Tasty
+13,38,wonderful
+11,35,wow
+4,46,so good
+11,21,amazing
+13,54,Tasty
+15,15,wonderful
+2,52,wow
+2,17,so good
+15,23,amazing
+2,2,Tasty
+15,32,wonderful
+2,16,wow
+15,13,so good
+14,37,amazing
+3,7,Tasty
+20,47,wonderful
+4,44,wow
+3,57,so good
+11,57,amazing
+12,7,Tasty
+9,48,wonderful
+2,18,wow
+2,27,so good
+9,39,amazing
+3,36,Tasty
+8,37,wonderful
+10,41,wow
+6,47,so good
+16,44,amazing
+1,42,Tasty
+12,17,wonderful
+10,13,wow
+9,27,so good
+8,13,amazing
+13,10,Tasty
+6,36,wonderful
+7,45,wow
+5,31,so good
+8,20,amazing
+5,31,Tasty
+14,31,wonderful
+7,44,wow
+15,11,so good
+16,46,amazing
+9,57,Tasty
+20,51,wonderful
+13,20,wow
+13,41,so good
+13,19,amazing
+12,46,Tasty
+19,20,wonderful
+6,17,wow
+10,15,so good
+7,15,amazing
+1,49,Tasty
+2,16,wonderful
+19,27,wow
+16,12,so good
+3,33,amazing
+7,33,Tasty
+2,46,wonderful
+16,32,wow
+5,29,so good
+14,45,amazing
+16,54,Tasty
+8,27,wonderful
+16,36,wow
+18,31,so good
+18,50,amazing
+20,16,Tasty
+17,30,wonderful
+10,36,wow
+14,3,so good
+9,55,amazing
+15,18,Tasty
+1,47,wonderful
+15,3,wow
+9,12,so good
+10,35,amazing
+8,39,Tasty
+11,37,wonderful
+20,57,wow
+10,37,so good
+7,11,amazing
+14,17,Tasty
+5,48,wonderful
+8,24,wow
+14,52,so good
+4,54,amazing
+19,3,Tasty
+4,14,wonderful
+16,1,wow
+6,4,so good
+12,45,amazing
+6,9,Tasty
+9,10,wonderful
+19,31,wow
+14,17,so good
+8,57,amazing
+20,47,Tasty
+1,1,wonderful
+2,29,wow
+19,19,so good
+16,26,amazing
+9,5,Tasty
+1,21,wonderful
+14,27,wow
+12,14,so good
+1,17,amazing
+8,49,Tasty
+7,41,wonderful
+18,3,wow
+18,45,so good
+19,20,amazing
+13,34,Tasty
+12,23,wonderful
+8,1,wow
+14,38,so good
+7,22,amazing
+18,29,Tasty
+6,46,wonderful
+1,11,wow
+20,1,so good
+2,56,amazing
+3,5,Tasty
+13,34,wonderful
+8,10,wow
+7,33,so good
+9,57,amazing
+10,49,Tasty
+19,47,wonderful
+6,34,wow
+17,17,so good
+17,18,amazing
+4,49,Tasty
+4,39,wonderful
+7,56,wow
+10,41,so good
+5,33,amazing
+15,48,Tasty
+12,16,wonderful
+3,5,wow
+15,35,so good
+8,48,amazing
+8,22,Tasty
+19,57,wonderful
+3,39,wow
+8,32,so good
+9,48,amazing
+17,51,Tasty
+17,20,wonderful
+13,46,wow
+17,11,so good
+13,33,amazing
+20,4,Tasty
+10,22,wonderful
+7,44,wow
+3,44,so good
+2,34,amazing
+8,51,Tasty
+16,18,wonderful
+15,36,wow
+10,41,so good
+17,11,amazing
+11,40,Tasty
+17,1,wonderful
+7,52,wow
+8,3,so good
+3,8,amazing
+11,42,Tasty
+18,36,wonderful
+9,18,wow
+5,22,so good
+4,28,amazing
+17,50,Tasty
+13,4,wonderful
+2,23,wow
+18,29,so good
+5,17,amazing
+9,52,Tasty
+10,57,wonderful
+7,3,wow
+1,44,so good
+11,56,amazing
+6,3,Tasty
+2,27,wonderful
+14,19,wow
+4,2,so good
+9,54,amazing
+16,4,Tasty
+16,27,wonderful
+1,40,wow
+17,21,so good
+14,5,amazing
+5,12,Tasty
+5,29,wonderful
+10,2,wow
+20,44,so good
+16,16,amazing
+12,9,Tasty
+20,41,wonderful
+8,13,wow
+11,15,so good
+11,30,amazing
+20,17,Tasty
+1,22,wonderful
+1,7,wow
+13,5,so good
+7,40,amazing
+12,10,Tasty
+14,4,wonderful
+13,22,wow
+14,25,so good
+5,37,amazing
+14,30,Tasty
+7,40,wonderful
+6,46,wow
+5,56,so good
+16,35,amazing
+16,21,Tasty
+18,42,wonderful
+14,3,wow
+6,24,so good
+10,55,amazing
+7,30,Tasty
+7,53,wonderful
+7,49,wow
+3,29,so good
+9,37,amazing
+17,15,Tasty
+12,18,wonderful
+7,18,wow
+18,15,so good
+3,33,amazing
+7,41,Tasty
+18,2,wonderful
+6,39,wow
+20,1,so good
+3,48,amazing
+13,7,Tasty
+11,29,wonderful
+2,42,wow
+9,44,so good
+18,4,amazing
+11,33,Tasty
+14,53,wonderful
+14,34,wow
+15,39,so good
+17,35,amazing
+14,5,Tasty
+14,29,wonderful
+16,37,wow
+16,32,so good
+13,2,amazing
+10,52,Tasty
+15,40,wonderful
+1,15,wow
+7,20,so good
+13,17,amazing
+11,30,Tasty
+16,3,wonderful
+17,10,wow
+2,22,so good
+3,31,amazing
+8,50,Tasty
+10,5,wonderful
+6,31,wow
+18,35,so good
+20,39,amazing
+3,1,Tasty
+19,41,wonderful
+3,24,wow
+1,29,so good
+9,55,amazing
+3,43,Tasty
+20,27,wonderful
+14,10,wow
+6,20,so good
+19,46,amazing
+18,55,Tasty
+13,46,wonderful
+9,56,wow
+5,25,so good
+7,16,amazing
+13,24,Tasty
+3,19,wonderful
+14,43,wow
+2,31,so good
+3,32,amazing
+5,20,Tasty
+16,11,wonderful
+3,26,wow
+12,13,so good
+5,49,amazing
+7,53,Tasty
+9,39,wonderful
+9,10,wow
+9,6,so good
+7,11,amazing
+4,49,Tasty
+12,16,wonderful
+4,15,wow
+2,49,so good
+12,28,amazing
+14,49,Tasty
+17,13,wonderful
+10,35,wow
+10,27,so good
+1,45,amazing
+7,43,Tasty
+20,46,wonderful
+13,11,wow
+15,26,so good
+9,19,amazing
+10,36,Tasty
+19,30,wonderful
+1,29,wow
+2,29,so good
+3,27,amazing
+9,10,Tasty
+1,53,wonderful
+6,40,wow
+6,23,so good
+13,36,amazing
+10,40,Tasty
+19,54,wonderful
+20,1,wow
+5,21,so good
+2,49,amazing
+16,4,Tasty
+3,48,wonderful
+1,6,wow
+1,16,so good
+16,34,amazing
+19,56,Tasty
+12,14,wonderful
+7,17,wow
+16,40,so good
+9,22,amazing
+10,23,Tasty
+11,38,wonderful
+13,29,wow
+17,44,so good
+8,47,amazing
+6,15,Tasty
+5,31,wonderful
+6,6,wow
+4,50,so good
+15,3,amazing
+15,29,Tasty
+2,50,wonderful
+9,16,wow
+9,43,so good
+3,51,amazing
+15,52,Tasty
+7,48,wonderful
+19,10,wow
+13,20,so good
+2,9,amazing
+8,23,Tasty
+14,9,wonderful
+8,3,wow
+2,22,so good
+16,55,amazing
+19,51,Tasty
+13,46,wonderful
+11,23,wow
+18,57,so good
+11,40,amazing
+16,15,Tasty
+12,45,wonderful
+12,22,wow
+13,6,so good
+3,57,amazing
+12,17,Tasty
+13,42,wonderful
+17,54,wow
+13,19,so good
+17,35,amazing
+3,5,Tasty
+5,20,wonderful
+8,16,wow
+17,35,so good
+1,41,amazing
+20,56,Tasty
+8,42,wonderful
+1,20,wow
+20,27,so good
+4,27,amazing
+3,40,Tasty
+10,23,wonderful
+2,16,wow
+17,43,so good
+10,31,amazing
+14,24,Tasty
+2,35,wonderful
+16,48,wow
+14,47,so good
+4,28,amazing
+9,43,Tasty
+12,16,wonderful
+18,26,wow
+14,12,so good
+19,4,amazing
+17,9,Tasty
+9,20,wonderful
+1,36,wow
+2,11,so good
+13,11,amazing
+12,54,Tasty
+9,12,wonderful
+4,20,wow
+9,53,so good
+2,17,amazing
+7,5,Tasty
+1,52,wonderful
+11,20,wow
+7,50,so good
+10,52,amazing
+10,40,Tasty
+5,3,wonderful
+17,10,wow
+14,23,so good
+1,10,amazing
+13,17,Tasty
+20,13,wonderful
+19,45,wow
+8,21,so good
+3,51,amazing
+4,24,Tasty
+18,37,wonderful
+12,31,wow
+1,41,so good
+7,22,amazing
+11,45,Tasty
+11,24,wonderful
+17,52,wow
+17,19,so good
+15,33,amazing
+14,18,Tasty
+2,35,wonderful
+5,10,wow
+13,5,so good
+18,35,amazing
+14,7,Tasty
+20,1,wonderful
+10,31,wow
+4,13,so good
+18,18,amazing
+10,50,Tasty
+6,43,wonderful
+17,40,wow
+2,14,so good
+16,14,amazing
+1,22,Tasty
+14,54,wonderful
+12,32,wow
+4,56,so good
+3,6,amazing
+4,51,Tasty
+8,24,wonderful
+16,35,wow
+12,55,so good
+2,34,amazing
+13,5,Tasty
+4,34,wonderful
+14,28,wow
+9,20,so good
+5,26,amazing
+16,32,Tasty
+15,6,wonderful
+5,57,wow
+12,12,so good
+1,5,amazing
+5,50,Tasty
+7,20,wonderful
+20,36,wow
+12,1,so good
+16,7,amazing
+5,41,Tasty
+16,40,wonderful
+10,47,wow
+9,32,so good
+8,54,amazing
+6,55,Tasty
+3,9,wonderful
+8,13,wow
+15,56,so good
+8,28,amazing
+9,56,Tasty
+2,15,wonderful
+16,24,wow
+1,24,so good
+1,39,amazing
+4,39,Tasty
+9,22,wonderful
+13,16,wow
+3,5,so good
+12,33,amazing
+2,12,Tasty
+9,6,wonderful
+7,35,wow
+1,36,so good
+15,40,amazing
+6,49,Tasty
+14,43,wonderful
+2,16,wow
+12,24,so good
+3,14,amazing
+17,12,Tasty
+4,40,wonderful
+18,2,wow
+2,4,so good
+18,37,amazing
+5,48,Tasty
+11,14,wonderful
+9,11,wow
+7,19,so good
+6,28,amazing
+12,10,Tasty
+18,22,wonderful
+19,21,wow
+6,24,so good
+9,13,amazing
+14,46,Tasty
+17,5,wonderful
+16,47,wow
+9,6,so good
+11,16,amazing
+8,14,Tasty
+7,43,wonderful
+18,15,wow
+16,48,so good
+14,9,amazing
+1,45,Tasty
+14,20,wonderful
+15,4,wow
+3,26,so good
+8,26,amazing
+14,38,Tasty
+3,18,wonderful
+2,50,wow
+18,7,so good
+20,10,amazing
+2,29,Tasty
+14,13,wonderful
+19,43,wow
+18,9,so good
+8,23,amazing
+9,4,Tasty
+20,19,wonderful
+7,26,wow
+4,7,so good
+13,30,amazing
+4,33,Tasty
+5,5,wonderful
+10,53,wow
+15,43,so good
+9,34,amazing
+15,35,Tasty
+17,49,wonderful
+11,10,wow
+4,53,so good
+15,35,amazing
+15,20,Tasty
+9,26,wonderful
+15,19,wow
+17,22,so good
+4,33,amazing
+1,32,Tasty
+19,22,wonderful
+1,45,wow
+6,40,so good
+16,41,amazing
+5,35,Tasty
+19,3,wonderful
+18,56,wow
+9,1,so good
+1,44,amazing
+12,38,Tasty
+16,50,wonderful
+1,14,wow
+2,44,so good
+17,18,amazing
+12,55,Tasty
+17,37,wonderful
+15,28,wow
+11,39,so good
+4,41,amazing
+15,41,Tasty
+7,49,wonderful
+13,32,wow
+10,48,so good
+10,4,amazing
+16,57,Tasty
+9,28,wonderful
+9,54,wow
+16,15,so good
+14,11,amazing
+19,33,Tasty
+7,17,wonderful
+19,5,wow
+1,2,so good
+18,6,amazing
+11,32,Tasty
+3,7,wonderful
+11,12,wow
+19,42,so good
+7,27,amazing
+13,45,Tasty
+11,6,wonderful
+16,19,wow
+17,5,so good
+12,57,amazing
+10,36,Tasty
+5,42,wonderful
+20,40,wow
+9,43,so good
+2,11,amazing
+1,1,Tasty
+9,26,wonderful
+13,54,wow
+8,37,so good
+15,17,amazing
+3,18,Tasty
+14,48,wonderful
+5,51,wow
+19,39,so good
+17,2,amazing
+1,48,Tasty
+14,16,wonderful
+17,38,wow
+19,35,so good
+3,55,amazing
+4,55,Tasty
+8,55,wonderful
+10,26,wow
+13,41,so good
+9,31,amazing
+8,2,Tasty
+4,25,wonderful
+2,29,wow
+6,11,so good
+6,47,amazing
+17,39,Tasty
+17,53,wonderful
+14,19,wow
+20,1,so good
+15,45,amazing
+4,25,Tasty
+20,1,wonderful
+5,23,wow
+5,55,so good
+8,9,amazing
+4,20,Tasty
+20,10,wonderful
+9,21,wow
+17,41,so good
+9,46,amazing
+2,17,Tasty
+4,38,wonderful
+15,10,wow
+20,1,so good
+16,53,amazing
+7,36,Tasty
+10,30,wonderful
+14,37,wow
+18,23,so good
+10,44,amazing
+11,38,Tasty
+16,1,wonderful
+11,30,wow
+5,12,so good
+7,49,amazing
+18,49,Tasty
+12,16,wonderful
+12,21,wow
+16,28,so good
+12,43,amazing
+10,9,Tasty
+7,33,wonderful
+15,32,wow
+11,25,so good
+19,54,amazing
+18,23,Tasty
+2,34,wonderful
+18,13,wow
+14,52,so good
+14,48,amazing
+17,16,Tasty
+6,12,wonderful
+15,8,wow
+9,9,so good
+15,46,amazing
+10,29,Tasty
+18,56,wonderful
+16,56,wow
+2,25,so good
+14,33,amazing
+18,55,Tasty
+3,24,wonderful
+11,7,wow
+10,11,so good
+18,50,amazing
+19,10,Tasty
+5,56,wonderful
+2,2,wow
+20,22,so good
+11,25,amazing
+3,38,Tasty
+15,3,wonderful
+1,2,wow
+7,2,so good
+3,49,amazing
+6,55,Tasty
+15,35,wonderful
+16,13,wow
+6,55,so good
+19,43,amazing
+17,34,Tasty
+8,38,wonderful
+18,22,wow
+9,40,so good
+3,9,amazing
+20,13,Tasty
+8,3,wonderful
+4,34,wow
+7,31,so good
+7,7,amazing
+9,56,Tasty
+15,42,wonderful
+8,25,wow
+3,18,so good
+2,44,amazing
+7,4,Tasty
+1,43,wonderful
+14,56,wow
+11,12,so good
+10,15,amazing
+17,53,Tasty
+1,3,wonderful
+15,8,wow
+5,37,so good
+16,12,amazing
+13,11,Tasty
+1,29,wonderful
+16,5,wow
+2,53,so good
+6,13,amazing
+12,22,Tasty
+7,54,wonderful
+5,1,wow
+3,24,so good
+2,46,amazing
+1,8,Tasty
+19,25,wonderful
+16,36,wow
+17,2,so good
+17,46,amazing
+12,42,Tasty
+11,48,wonderful
+9,23,wow
+2,50,so good
+20,9,amazing
+5,49,Tasty
+14,32,wonderful
+1,38,wow
+11,57,so good
+2,13,amazing
+11,20,Tasty
+13,16,wonderful
+18,9,wow
+15,27,so good
+5,36,amazing
+5,56,Tasty
+1,47,wonderful
+3,33,wow
+18,8,so good
+9,5,amazing
+12,38,Tasty
+16,30,wonderful
+3,48,wow
+8,32,so good
+15,40,amazing
+11,54,Tasty
+1,44,wonderful
+4,57,wow
+14,22,so good
+8,17,amazing
+2,47,Tasty
+13,37,wonderful
+9,23,wow
+14,17,so good
+15,46,amazing
+16,15,Tasty
+17,47,wonderful
+1,18,wow
+7,31,so good
+12,7,amazing
+3,26,Tasty
+2,24,wonderful
+2,23,wow
+1,50,so good
+16,4,amazing
+20,48,Tasty
+2,57,wonderful
+19,4,wow
+5,46,so good
+16,37,amazing
+11,6,Tasty
+15,1,wonderful
+13,43,wow
+20,32,so good
+12,3,amazing
+6,22,Tasty
+16,2,wonderful
+17,40,wow
+4,57,so good
+16,8,amazing
+4,51,Tasty
+9,25,wonderful
+14,53,wow
+6,16,so good
+6,42,amazing
+1,3,Tasty
+4,46,wonderful
+18,23,wow
+7,52,so good
+15,52,amazing
+2,10,Tasty
+20,55,wonderful
+18,13,wow
+1,47,so good
+7,15,amazing
+2,56,Tasty
+7,42,wonderful
+16,13,wow
+14,18,so good
+20,14,amazing
+5,20,Tasty
+5,1,wonderful
+4,8,wow
+4,5,so good
+6,32,amazing
+15,26,Tasty
+16,6,wonderful
+7,43,wow
+17,3,so good
+11,1,amazing
+1,22,Tasty
+5,14,wonderful
+17,26,wow
+18,18,so good
+14,33,amazing
+11,45,Tasty
+11,11,wonderful
+19,51,wow
+18,2,so good
+9,34,amazing
+20,41,Tasty
+19,31,wonderful
+4,23,wow
+1,28,so good
+7,24,amazing
+15,4,Tasty
+14,51,wonderful
+17,57,wow
+18,55,so good
+5,20,amazing
+13,33,Tasty
+2,49,wonderful
+11,31,wow
+5,41,so good
+3,46,amazing
+14,35,Tasty
+8,9,wonderful
+14,1,wow
+7,42,so good
+18,14,amazing
+17,42,Tasty
+1,27,wonderful
+10,55,wow
+7,27,so good
+4,28,amazing
+19,46,Tasty
+1,2,wonderful
+7,39,wow
+9,37,so good
+9,46,amazing
+1,34,Tasty
+14,37,wonderful
+13,35,wow
+17,37,so good
+18,16,amazing
+20,53,Tasty
+1,35,wonderful
+14,52,wow
+2,14,so good
+14,43,amazing
+13,39,Tasty
+20,44,wonderful
+1,41,wow
+13,53,so good
+5,35,amazing
+14,41,Tasty
+9,33,wonderful
+20,1,wow
+4,27,so good
+1,32,amazing
