@@ -1,1001 +1,1001 @@
-UserID,FoodID,tag
-13,21,Tasty
-15,18,wonderful
-13,36,wow
-11,40,so good
-12,14,amazing
-18,5,Tasty
-13,50,wonderful
-9,27,wow
-13,52,so good
-6,5,amazing
-9,21,Tasty
-11,40,wonderful
-9,32,wow
-6,9,so good
-10,53,amazing
-16,41,Tasty
-10,49,wonderful
-13,40,wow
-6,27,so good
-4,10,amazing
-6,32,Tasty
-20,7,wonderful
-3,36,wow
-7,21,so good
-19,3,amazing
-7,33,Tasty
-3,57,wonderful
-9,54,wow
-8,5,so good
-5,8,amazing
-6,55,Tasty
-7,44,wonderful
-8,13,wow
-7,16,so good
-20,29,amazing
-11,2,Tasty
-2,11,wonderful
-14,16,wow
-2,39,so good
-7,37,amazing
-11,27,Tasty
-16,29,wonderful
-11,2,wow
-3,54,so good
-9,39,amazing
-12,44,Tasty
-13,20,wonderful
-10,43,wow
-10,18,so good
-4,31,amazing
-15,29,Tasty
-8,13,wonderful
-8,21,wow
-7,19,so good
-16,12,amazing
-7,29,Tasty
-17,34,wonderful
-14,46,wow
-13,43,so good
-1,37,amazing
-17,15,Tasty
-5,4,wonderful
-5,42,wow
-20,26,so good
-13,43,amazing
-6,39,Tasty
-9,37,wonderful
-1,16,wow
-13,6,so good
-16,20,amazing
-17,57,Tasty
-16,16,wonderful
-17,51,wow
-11,17,so good
-19,2,amazing
-7,22,Tasty
-8,28,wonderful
-6,34,wow
-16,7,so good
-1,4,amazing
-7,54,Tasty
-12,57,wonderful
-14,24,wow
-9,33,so good
-19,31,amazing
-3,45,Tasty
-18,51,wonderful
-15,22,wow
-16,14,so good
-15,34,amazing
-12,8,Tasty
-13,38,wonderful
-11,35,wow
-4,46,so good
-11,21,amazing
-13,54,Tasty
-15,15,wonderful
-2,52,wow
-2,17,so good
-15,23,amazing
-2,2,Tasty
-15,32,wonderful
-2,16,wow
-15,13,so good
-14,37,amazing
-3,7,Tasty
-20,47,wonderful
-4,44,wow
-3,57,so good
-11,57,amazing
-12,7,Tasty
-9,48,wonderful
-2,18,wow
-2,27,so good
-9,39,amazing
-3,36,Tasty
-8,37,wonderful
-10,41,wow
-6,47,so good
-16,44,amazing
-1,42,Tasty
-12,17,wonderful
-10,13,wow
-9,27,so good
-8,13,amazing
-13,10,Tasty
-6,36,wonderful
-7,45,wow
-5,31,so good
-8,20,amazing
-5,31,Tasty
-14,31,wonderful
-7,44,wow
-15,11,so good
-16,46,amazing
-9,57,Tasty
-20,51,wonderful
-13,20,wow
-13,41,so good
-13,19,amazing
-12,46,Tasty
-19,20,wonderful
-6,17,wow
-10,15,so good
-7,15,amazing
-1,49,Tasty
-2,16,wonderful
-19,27,wow
-16,12,so good
-3,33,amazing
-7,33,Tasty
-2,46,wonderful
-16,32,wow
-5,29,so good
-14,45,amazing
-16,54,Tasty
-8,27,wonderful
-16,36,wow
-18,31,so good
-18,50,amazing
-20,16,Tasty
-17,30,wonderful
-10,36,wow
-14,3,so good
-9,55,amazing
-15,18,Tasty
-1,47,wonderful
-15,3,wow
-9,12,so good
-10,35,amazing
-8,39,Tasty
-11,37,wonderful
-20,57,wow
-10,37,so good
-7,11,amazing
-14,17,Tasty
-5,48,wonderful
-8,24,wow
-14,52,so good
-4,54,amazing
-19,3,Tasty
-4,14,wonderful
-16,1,wow
-6,4,so good
-12,45,amazing
-6,9,Tasty
-9,10,wonderful
-19,31,wow
-14,17,so good
-8,57,amazing
-20,47,Tasty
-1,1,wonderful
-2,29,wow
-19,19,so good
-16,26,amazing
-9,5,Tasty
-1,21,wonderful
-14,27,wow
-12,14,so good
-1,17,amazing
-8,49,Tasty
-7,41,wonderful
-18,3,wow
-18,45,so good
-19,20,amazing
-13,34,Tasty
-12,23,wonderful
-8,1,wow
-14,38,so good
-7,22,amazing
-18,29,Tasty
-6,46,wonderful
-1,11,wow
-20,1,so good
-2,56,amazing
-3,5,Tasty
-13,34,wonderful
-8,10,wow
-7,33,so good
-9,57,amazing
-10,49,Tasty
-19,47,wonderful
-6,34,wow
-17,17,so good
-17,18,amazing
-4,49,Tasty
-4,39,wonderful
-7,56,wow
-10,41,so good
-5,33,amazing
-15,48,Tasty
-12,16,wonderful
-3,5,wow
-15,35,so good
-8,48,amazing
-8,22,Tasty
-19,57,wonderful
-3,39,wow
-8,32,so good
-9,48,amazing
-17,51,Tasty
-17,20,wonderful
-13,46,wow
-17,11,so good
-13,33,amazing
-20,4,Tasty
-10,22,wonderful
-7,44,wow
-3,44,so good
-2,34,amazing
-8,51,Tasty
-16,18,wonderful
-15,36,wow
-10,41,so good
-17,11,amazing
-11,40,Tasty
-17,1,wonderful
-7,52,wow
-8,3,so good
-3,8,amazing
-11,42,Tasty
-18,36,wonderful
-9,18,wow
-5,22,so good
-4,28,amazing
-17,50,Tasty
-13,4,wonderful
-2,23,wow
-18,29,so good
-5,17,amazing
-9,52,Tasty
-10,57,wonderful
-7,3,wow
-1,44,so good
-11,56,amazing
-6,3,Tasty
-2,27,wonderful
-14,19,wow
-4,2,so good
-9,54,amazing
-16,4,Tasty
-16,27,wonderful
-1,40,wow
-17,21,so good
-14,5,amazing
-5,12,Tasty
-5,29,wonderful
-10,2,wow
-20,44,so good
-16,16,amazing
-12,9,Tasty
-20,41,wonderful
-8,13,wow
-11,15,so good
-11,30,amazing
-20,17,Tasty
-1,22,wonderful
-1,7,wow
-13,5,so good
-7,40,amazing
-12,10,Tasty
-14,4,wonderful
-13,22,wow
-14,25,so good
-5,37,amazing
-14,30,Tasty
-7,40,wonderful
-6,46,wow
-5,56,so good
-16,35,amazing
-16,21,Tasty
-18,42,wonderful
-14,3,wow
-6,24,so good
-10,55,amazing
-7,30,Tasty
-7,53,wonderful
-7,49,wow
-3,29,so good
-9,37,amazing
-17,15,Tasty
-12,18,wonderful
-7,18,wow
-18,15,so good
-3,33,amazing
-7,41,Tasty
-18,2,wonderful
-6,39,wow
-20,1,so good
-3,48,amazing
-13,7,Tasty
-11,29,wonderful
-2,42,wow
-9,44,so good
-18,4,amazing
-11,33,Tasty
-14,53,wonderful
-14,34,wow
-15,39,so good
-17,35,amazing
-14,5,Tasty
-14,29,wonderful
-16,37,wow
-16,32,so good
-13,2,amazing
-10,52,Tasty
-15,40,wonderful
-1,15,wow
-7,20,so good
-13,17,amazing
-11,30,Tasty
-16,3,wonderful
-17,10,wow
-2,22,so good
-3,31,amazing
-8,50,Tasty
-10,5,wonderful
-6,31,wow
-18,35,so good
-20,39,amazing
-3,1,Tasty
-19,41,wonderful
-3,24,wow
-1,29,so good
-9,55,amazing
-3,43,Tasty
-20,27,wonderful
-14,10,wow
-6,20,so good
-19,46,amazing
-18,55,Tasty
-13,46,wonderful
-9,56,wow
-5,25,so good
-7,16,amazing
-13,24,Tasty
-3,19,wonderful
-14,43,wow
-2,31,so good
-3,32,amazing
-5,20,Tasty
-16,11,wonderful
-3,26,wow
-12,13,so good
-5,49,amazing
-7,53,Tasty
-9,39,wonderful
-9,10,wow
-9,6,so good
-7,11,amazing
-4,49,Tasty
-12,16,wonderful
-4,15,wow
-2,49,so good
-12,28,amazing
-14,49,Tasty
-17,13,wonderful
-10,35,wow
-10,27,so good
-1,45,amazing
-7,43,Tasty
-20,46,wonderful
-13,11,wow
-15,26,so good
-9,19,amazing
-10,36,Tasty
-19,30,wonderful
-1,29,wow
-2,29,so good
-3,27,amazing
-9,10,Tasty
-1,53,wonderful
-6,40,wow
-6,23,so good
-13,36,amazing
-10,40,Tasty
-19,54,wonderful
-20,1,wow
-5,21,so good
-2,49,amazing
-16,4,Tasty
-3,48,wonderful
-1,6,wow
-1,16,so good
-16,34,amazing
-19,56,Tasty
-12,14,wonderful
-7,17,wow
-16,40,so good
-9,22,amazing
-10,23,Tasty
-11,38,wonderful
-13,29,wow
-17,44,so good
-8,47,amazing
-6,15,Tasty
-5,31,wonderful
-6,6,wow
-4,50,so good
-15,3,amazing
-15,29,Tasty
-2,50,wonderful
-9,16,wow
-9,43,so good
-3,51,amazing
-15,52,Tasty
-7,48,wonderful
-19,10,wow
-13,20,so good
-2,9,amazing
-8,23,Tasty
-14,9,wonderful
-8,3,wow
-2,22,so good
-16,55,amazing
-19,51,Tasty
-13,46,wonderful
-11,23,wow
-18,57,so good
-11,40,amazing
-16,15,Tasty
-12,45,wonderful
-12,22,wow
-13,6,so good
-3,57,amazing
-12,17,Tasty
-13,42,wonderful
-17,54,wow
-13,19,so good
-17,35,amazing
-3,5,Tasty
-5,20,wonderful
-8,16,wow
-17,35,so good
-1,41,amazing
-20,56,Tasty
-8,42,wonderful
-1,20,wow
-20,27,so good
-4,27,amazing
-3,40,Tasty
-10,23,wonderful
-2,16,wow
-17,43,so good
-10,31,amazing
-14,24,Tasty
-2,35,wonderful
-16,48,wow
-14,47,so good
-4,28,amazing
-9,43,Tasty
-12,16,wonderful
-18,26,wow
-14,12,so good
-19,4,amazing
-17,9,Tasty
-9,20,wonderful
-1,36,wow
-2,11,so good
-13,11,amazing
-12,54,Tasty
-9,12,wonderful
-4,20,wow
-9,53,so good
-2,17,amazing
-7,5,Tasty
-1,52,wonderful
-11,20,wow
-7,50,so good
-10,52,amazing
-10,40,Tasty
-5,3,wonderful
-17,10,wow
-14,23,so good
-1,10,amazing
-13,17,Tasty
-20,13,wonderful
-19,45,wow
-8,21,so good
-3,51,amazing
-4,24,Tasty
-18,37,wonderful
-12,31,wow
-1,41,so good
-7,22,amazing
-11,45,Tasty
-11,24,wonderful
-17,52,wow
-17,19,so good
-15,33,amazing
-14,18,Tasty
-2,35,wonderful
-5,10,wow
-13,5,so good
-18,35,amazing
-14,7,Tasty
-20,1,wonderful
-10,31,wow
-4,13,so good
-18,18,amazing
-10,50,Tasty
-6,43,wonderful
-17,40,wow
-2,14,so good
-16,14,amazing
-1,22,Tasty
-14,54,wonderful
-12,32,wow
-4,56,so good
-3,6,amazing
-4,51,Tasty
-8,24,wonderful
-16,35,wow
-12,55,so good
-2,34,amazing
-13,5,Tasty
-4,34,wonderful
-14,28,wow
-9,20,so good
-5,26,amazing
-16,32,Tasty
-15,6,wonderful
-5,57,wow
-12,12,so good
-1,5,amazing
-5,50,Tasty
-7,20,wonderful
-20,36,wow
-12,1,so good
-16,7,amazing
-5,41,Tasty
-16,40,wonderful
-10,47,wow
-9,32,so good
-8,54,amazing
-6,55,Tasty
-3,9,wonderful
-8,13,wow
-15,56,so good
-8,28,amazing
-9,56,Tasty
-2,15,wonderful
-16,24,wow
-1,24,so good
-1,39,amazing
-4,39,Tasty
-9,22,wonderful
-13,16,wow
-3,5,so good
-12,33,amazing
-2,12,Tasty
-9,6,wonderful
-7,35,wow
-1,36,so good
-15,40,amazing
-6,49,Tasty
-14,43,wonderful
-2,16,wow
-12,24,so good
-3,14,amazing
-17,12,Tasty
-4,40,wonderful
-18,2,wow
-2,4,so good
-18,37,amazing
-5,48,Tasty
-11,14,wonderful
-9,11,wow
-7,19,so good
-6,28,amazing
-12,10,Tasty
-18,22,wonderful
-19,21,wow
-6,24,so good
-9,13,amazing
-14,46,Tasty
-17,5,wonderful
-16,47,wow
-9,6,so good
-11,16,amazing
-8,14,Tasty
-7,43,wonderful
-18,15,wow
-16,48,so good
-14,9,amazing
-1,45,Tasty
-14,20,wonderful
-15,4,wow
-3,26,so good
-8,26,amazing
-14,38,Tasty
-3,18,wonderful
-2,50,wow
-18,7,so good
-20,10,amazing
-2,29,Tasty
-14,13,wonderful
-19,43,wow
-18,9,so good
-8,23,amazing
-9,4,Tasty
-20,19,wonderful
-7,26,wow
-4,7,so good
-13,30,amazing
-4,33,Tasty
-5,5,wonderful
-10,53,wow
-15,43,so good
-9,34,amazing
-15,35,Tasty
-17,49,wonderful
-11,10,wow
-4,53,so good
-15,35,amazing
-15,20,Tasty
-9,26,wonderful
-15,19,wow
-17,22,so good
-4,33,amazing
-1,32,Tasty
-19,22,wonderful
-1,45,wow
-6,40,so good
-16,41,amazing
-5,35,Tasty
-19,3,wonderful
-18,56,wow
-9,1,so good
-1,44,amazing
-12,38,Tasty
-16,50,wonderful
-1,14,wow
-2,44,so good
-17,18,amazing
-12,55,Tasty
-17,37,wonderful
-15,28,wow
-11,39,so good
-4,41,amazing
-15,41,Tasty
-7,49,wonderful
-13,32,wow
-10,48,so good
-10,4,amazing
-16,57,Tasty
-9,28,wonderful
-9,54,wow
-16,15,so good
-14,11,amazing
-19,33,Tasty
-7,17,wonderful
-19,5,wow
-1,2,so good
-18,6,amazing
-11,32,Tasty
-3,7,wonderful
-11,12,wow
-19,42,so good
-7,27,amazing
-13,45,Tasty
-11,6,wonderful
-16,19,wow
-17,5,so good
-12,57,amazing
-10,36,Tasty
-5,42,wonderful
-20,40,wow
-9,43,so good
-2,11,amazing
-1,1,Tasty
-9,26,wonderful
-13,54,wow
-8,37,so good
-15,17,amazing
-3,18,Tasty
-14,48,wonderful
-5,51,wow
-19,39,so good
-17,2,amazing
-1,48,Tasty
-14,16,wonderful
-17,38,wow
-19,35,so good
-3,55,amazing
-4,55,Tasty
-8,55,wonderful
-10,26,wow
-13,41,so good
-9,31,amazing
-8,2,Tasty
-4,25,wonderful
-2,29,wow
-6,11,so good
-6,47,amazing
-17,39,Tasty
-17,53,wonderful
-14,19,wow
-20,1,so good
-15,45,amazing
-4,25,Tasty
-20,1,wonderful
-5,23,wow
-5,55,so good
-8,9,amazing
-4,20,Tasty
-20,10,wonderful
-9,21,wow
-17,41,so good
-9,46,amazing
-2,17,Tasty
-4,38,wonderful
-15,10,wow
-20,1,so good
-16,53,amazing
-7,36,Tasty
-10,30,wonderful
-14,37,wow
-18,23,so good
-10,44,amazing
-11,38,Tasty
-16,1,wonderful
-11,30,wow
-5,12,so good
-7,49,amazing
-18,49,Tasty
-12,16,wonderful
-12,21,wow
-16,28,so good
-12,43,amazing
-10,9,Tasty
-7,33,wonderful
-15,32,wow
-11,25,so good
-19,54,amazing
-18,23,Tasty
-2,34,wonderful
-18,13,wow
-14,52,so good
-14,48,amazing
-17,16,Tasty
-6,12,wonderful
-15,8,wow
-9,9,so good
-15,46,amazing
-10,29,Tasty
-18,56,wonderful
-16,56,wow
-2,25,so good
-14,33,amazing
-18,55,Tasty
-3,24,wonderful
-11,7,wow
-10,11,so good
-18,50,amazing
-19,10,Tasty
-5,56,wonderful
-2,2,wow
-20,22,so good
-11,25,amazing
-3,38,Tasty
-15,3,wonderful
-1,2,wow
-7,2,so good
-3,49,amazing
-6,55,Tasty
-15,35,wonderful
-16,13,wow
-6,55,so good
-19,43,amazing
-17,34,Tasty
-8,38,wonderful
-18,22,wow
-9,40,so good
-3,9,amazing
-20,13,Tasty
-8,3,wonderful
-4,34,wow
-7,31,so good
-7,7,amazing
-9,56,Tasty
-15,42,wonderful
-8,25,wow
-3,18,so good
-2,44,amazing
-7,4,Tasty
-1,43,wonderful
-14,56,wow
-11,12,so good
-10,15,amazing
-17,53,Tasty
-1,3,wonderful
-15,8,wow
-5,37,so good
-16,12,amazing
-13,11,Tasty
-1,29,wonderful
-16,5,wow
-2,53,so good
-6,13,amazing
-12,22,Tasty
-7,54,wonderful
-5,1,wow
-3,24,so good
-2,46,amazing
-1,8,Tasty
-19,25,wonderful
-16,36,wow
-17,2,so good
-17,46,amazing
-12,42,Tasty
-11,48,wonderful
-9,23,wow
-2,50,so good
-20,9,amazing
-5,49,Tasty
-14,32,wonderful
-1,38,wow
-11,57,so good
-2,13,amazing
-11,20,Tasty
-13,16,wonderful
-18,9,wow
-15,27,so good
-5,36,amazing
-5,56,Tasty
-1,47,wonderful
-3,33,wow
-18,8,so good
-9,5,amazing
-12,38,Tasty
-16,30,wonderful
-3,48,wow
-8,32,so good
-15,40,amazing
-11,54,Tasty
-1,44,wonderful
-4,57,wow
-14,22,so good
-8,17,amazing
-2,47,Tasty
-13,37,wonderful
-9,23,wow
-14,17,so good
-15,46,amazing
-16,15,Tasty
-17,47,wonderful
-1,18,wow
-7,31,so good
-12,7,amazing
-3,26,Tasty
-2,24,wonderful
-2,23,wow
-1,50,so good
-16,4,amazing
-20,48,Tasty
-2,57,wonderful
-19,4,wow
-5,46,so good
-16,37,amazing
-11,6,Tasty
-15,1,wonderful
-13,43,wow
-20,32,so good
-12,3,amazing
-6,22,Tasty
-16,2,wonderful
-17,40,wow
-4,57,so good
-16,8,amazing
-4,51,Tasty
-9,25,wonderful
-14,53,wow
-6,16,so good
-6,42,amazing
-1,3,Tasty
-4,46,wonderful
-18,23,wow
-7,52,so good
-15,52,amazing
-2,10,Tasty
-20,55,wonderful
-18,13,wow
-1,47,so good
-7,15,amazing
-2,56,Tasty
-7,42,wonderful
-16,13,wow
-14,18,so good
-20,14,amazing
-5,20,Tasty
-5,1,wonderful
-4,8,wow
-4,5,so good
-6,32,amazing
-15,26,Tasty
-16,6,wonderful
-7,43,wow
-17,3,so good
-11,1,amazing
-1,22,Tasty
-5,14,wonderful
-17,26,wow
-18,18,so good
-14,33,amazing
-11,45,Tasty
-11,11,wonderful
-19,51,wow
-18,2,so good
-9,34,amazing
-20,41,Tasty
-19,31,wonderful
-4,23,wow
-1,28,so good
-7,24,amazing
-15,4,Tasty
-14,51,wonderful
-17,57,wow
-18,55,so good
-5,20,amazing
-13,33,Tasty
-2,49,wonderful
-11,31,wow
-5,41,so good
-3,46,amazing
-14,35,Tasty
-8,9,wonderful
-14,1,wow
-7,42,so good
-18,14,amazing
-17,42,Tasty
-1,27,wonderful
-10,55,wow
-7,27,so good
-4,28,amazing
-19,46,Tasty
-1,2,wonderful
-7,39,wow
-9,37,so good
-9,46,amazing
-1,34,Tasty
-14,37,wonderful
-13,35,wow
-17,37,so good
-18,16,amazing
-20,53,Tasty
-1,35,wonderful
-14,52,wow
-2,14,so good
-14,43,amazing
-13,39,Tasty
-20,44,wonderful
-1,41,wow
-13,53,so good
-5,35,amazing
-14,41,Tasty
-9,33,wonderful
-20,1,wow
-4,27,so good
-1,32,amazing
+FoodID,UserID,tags
+21,13,Remarkable
+18,15,Mouthwatering
+36,13,Subpar
+40,11,Delectable
+14,12,Tantalizing
+5,18,Vapid
+50,13,Divine
+27,9,Impressive
+52,13,Pinnacle of taste
+5,6,Lackadaisical
+21,9,Masterfully prepared
+40,11,Vapid
+32,9,Top-notchCulinary delight
+9,6,Middling
+53,10,Unappetizing
+41,16,Flavorful
+49,10,Unappetizing
+40,13,Lackadaisical
+27,6,Lackluster
+10,4,Vapid
+32,6,Delectable
+7,20,Excellent
+36,3,Masterfully prepared
+21,7,Adequate
+3,19,Flavorful
+33,7,Ho-hum
+57,3,Mediocre
+54,9,Tantalizing
+5,8,Ho-hum
+8,5,Tantalizing
+55,6,Subpar
+44,7,Unimpressive
+13,8,Dull
+16,7,Mouthwatering
+29,20,Dull
+2,11,Tantalizing
+11,2,Luxurious
+16,14,Impressive
+39,2,Pinnacle of taste
+37,7,Decent
+27,11,Exceptional
+29,16,Passable
+2,11,Passable
+54,3,Vapid
+39,9,Flavorless
+44,12,Sumptuous
+20,13,Mouthwatering
+43,10,Passable
+18,10,Fair
+31,4,Luxurious
+29,15,Bland
+13,8,Lackluster
+21,8,Excellent
+19,7,Gourmet
+12,16,Pinnacle of taste
+29,7,Delectable
+34,17,Ordinary
+46,14,Middling
+43,13,Lackadaisical
+37,1,Bland
+15,17,Decent
+4,5,Impressive
+42,5,Outstanding
+26,20,Average
+43,13,Dull
+39,6,Outstanding
+37,9,Unpalatable
+16,1,Superb
+6,13,Flavorful
+20,16,Superb
+57,17,Unimpressive
+16,16,Fair
+51,17,Decent
+17,11,culinary masterpiece
+2,19,Remarkable
+22,7,Run-of-the-mill
+28,8,culinary masterpiece
+34,6,Divine
+7,16,Passable
+4,1,Dull
+54,7,Ordinary
+57,12,Remarkable
+24,14,Unpalatable
+33,9,Ordinary
+31,19,Tantalizing
+45,3,Lackluster
+51,18,Tantalizing
+22,15,Fair
+14,16,Flavorless
+34,15,Sumptuous
+8,12,Ho-hum
+38,13,Inadequate
+35,11,Tasteless
+46,4,culinary masterpiece
+21,11,Mediocre
+54,13,culinary masterpiece
+15,15,Impressive
+52,2,Mediocre
+17,2,Tasteless
+23,15,Ordinary
+2,2,Delectable
+32,15,Delectable
+16,2,Middling
+13,15,Outstanding
+37,14,Mediocre
+7,3,Tantalizing
+47,20,Average
+44,4,Ordinary
+57,3,Unimpressive
+57,11,Unappetizing
+7,12,Adequate
+48,9,Unpalatable
+18,2,Ordinary
+27,2,Gourmet
+39,9,Vapid
+36,3,Unimpressive
+37,8,culinary masterpiece
+41,10,Mediocre
+47,6,Pinnacle of taste
+44,16,Passable
+42,1,culinary masterpiece
+17,12,Flavorful
+13,10,Bland
+27,9,Unpalatable
+13,8,Adequate
+10,13,Inadequate
+36,6,Fair
+45,7,Decent
+31,5,Run-of-the-mill
+20,8,Decent
+31,5,Flavorful
+31,14,Fair
+44,7,Ordinary
+11,15,Tasteless
+46,16,Ordinary
+57,9,Ordinary
+51,20,Decent
+20,13,Gourmet
+41,13,Unimpressive
+19,13,Mouthwatering
+46,12,Subpar
+20,19,Luxurious
+17,6,Delectable
+15,10,Unimpressive
+15,7,Tasteless
+49,1,Ordinary
+16,2,Average
+27,19,Unimpressive
+12,16,Masterfully prepared
+33,3,Unappetizing
+33,7,Lackluster
+46,2,Vapid
+32,16,Ordinary
+29,5,Mediocre
+45,14,Vapid
+54,16,Unpalatable
+27,8,Delectable
+36,16,Flavorless
+31,18,Bland
+50,18,Sumptuous
+16,20,Exquisite
+30,17,Gourmet
+36,10,Masterfully prepared
+3,14,Inadequate
+55,9,Excellent
+18,15,Remarkable
+47,1,Ordinary
+3,15,Average
+12,9,Masterfully prepared
+35,10,Dull
+39,8,Flavorless
+37,11,Masterfully prepared
+57,20,Lackadaisical
+37,10,Run-of-the-mill
+11,7,Masterfully prepared
+17,14,Subpar
+48,5,Inadequate
+24,8,Vapid
+52,14,Inadequate
+54,4,Mediocre
+3,19,Excellent
+14,4,Flavorless
+1,16,Exquisite
+4,6,Lackluster
+45,12,Tantalizing
+9,6,Unappetizing
+10,9,Unappetizing
+31,19,Tasteless
+17,14,Passable
+57,8,Unappetizing
+47,20,Mouthwatering
+1,1,Tasteless
+29,2,Excellent
+19,19,Exquisite
+26,16,Unimpressive
+5,9,Unimpressive
+21,1,Unpalatable
+27,14,Lackadaisical
+14,12,Flavorful
+17,1,Average
+49,8,Flavorless
+41,7,Fair
+3,18,Flavorful
+45,18,Mediocre
+20,19,Tantalizing
+34,13,Gourmet
+23,12,Middling
+1,8,Passable
+38,14,Vapid
+22,7,Remarkable
+29,18,Tasteless
+46,6,Run-of-the-mill
+11,1,Tantalizing
+1,20,Delectable
+56,2,Pinnacle of taste
+5,3,Dull
+34,13,Flavorless
+10,8,Lackadaisical
+33,7,Superb
+57,9,Subpar
+49,10,Remarkable
+47,19,Adequate
+34,6,Passable
+17,17,Excellent
+18,17,Bland
+49,4,culinary masterpiece
+39,4,Passable
+56,7,Sumptuous
+41,10,Lackluster
+33,5,Flavorless
+48,15,Unpalatable
+16,12,Passable
+5,3,Tantalizing
+35,15,Vapid
+48,8,Ordinary
+22,8,Lackadaisical
+57,19,Tantalizing
+39,3,Flavorful
+32,8,Gourmet
+48,9,Gourmet
+51,17,Unpalatable
+20,17,culinary masterpiece
+46,13,Lackadaisical
+11,17,Gourmet
+33,13,culinary masterpiece
+4,20,Impressive
+22,10,Fair
+44,7,Decent
+44,3,Exceptional
+34,2,Passable
+51,8,Exceptional
+18,16,Lackadaisical
+36,15,Passable
+41,10,Vapid
+11,17,Divine
+40,11,culinary masterpiece
+1,17,Lackadaisical
+52,7,Tantalizing
+3,8,Pinnacle of taste
+8,3,Exquisite
+42,11,Fair
+36,18,Unappetizing
+18,9,Mouthwatering
+22,5,Masterfully prepared
+28,4,Excellent
+50,17,Ho-hum
+4,13,Flavorless
+23,2,Average
+29,18,Subpar
+17,5,Dull
+52,9,Flavorful
+57,10,Tantalizing
+3,7,Tasteless
+44,1,Flavorless
+56,11,Average
+3,6,Ho-hum
+27,2,Bland
+19,14,Average
+2,4,Superb
+54,9,Average
+4,16,Lackadaisical
+27,16,Fair
+40,1,Lackadaisical
+21,17,Run-of-the-mill
+5,14,Vapid
+12,5,Vapid
+29,5,Ordinary
+2,10,Unpalatable
+44,20,Ordinary
+16,16,Masterfully prepared
+9,12,Divine
+41,20,Exceptional
+13,8,Ordinary
+15,11,Superb
+30,11,Lackluster
+17,20,Unappetizing
+22,1,Adequate
+7,1,Gourmet
+5,13,Dull
+40,7,Luxurious
+10,12,Adequate
+4,14,Subpar
+22,13,Passable
+25,14,Flavorless
+37,5,Ho-hum
+30,14,Divine
+40,7,Subpar
+46,6,Middling
+56,5,Ho-hum
+35,16,Unimpressive
+21,16,Flavorless
+42,18,culinary masterpiece
+3,14,Ordinary
+24,6,Fair
+55,10,Luxurious
+30,7,Mouthwatering
+53,7,Lackluster
+49,7,Luxurious
+29,3,Subpar
+37,9,Pinnacle of taste
+15,17,Subpar
+18,12,Sumptuous
+18,7,Adequate
+15,18,Remarkable
+33,3,Ordinary
+41,7,Passable
+2,18,Flavorless
+39,6,Sumptuous
+1,20,Vapid
+48,3,Unpalatable
+7,13,Masterfully prepared
+29,11,Sumptuous
+42,2,Inadequate
+44,9,Average
+4,18,Excellent
+33,11,Subpar
+53,14,Dull
+34,14,Adequate
+39,15,Mediocre
+35,17,Subpar
+5,14,Divine
+29,14,Divine
+37,16,Unpalatable
+32,16,Superb
+2,13,Adequate
+52,10,Tasteless
+40,15,Luxurious
+15,1,Unpalatable
+20,7,Mouthwatering
+17,13,Vapid
+30,11,Decent
+3,16,Inadequate
+10,17,Pinnacle of taste
+22,2,Adequate
+31,3,Mediocre
+50,8,Unimpressive
+5,10,Sumptuous
+31,6,Excellent
+35,18,Subpar
+39,20,Luxurious
+1,3,culinary masterpiece
+41,19,Pinnacle of taste
+24,3,Delectable
+29,1,Sumptuous
+55,9,Tasteless
+43,3,Fair
+27,20,Impressive
+10,14,Mouthwatering
+20,6,Remarkable
+46,19,Unpalatable
+55,18,Tasteless
+46,13,Run-of-the-mill
+56,9,Mediocre
+25,5,Lackluster
+16,7,Passable
+24,13,Average
+19,3,Flavorful
+43,14,Excellent
+31,2,Excellent
+32,3,Subpar
+20,5,Mediocre
+11,16,Passable
+26,3,Lackluster
+13,12,Unimpressive
+49,5,Gourmet
+53,7,Lackadaisical
+39,9,Dull
+10,9,Adequate
+6,9,Average
+11,7,Fair
+49,4,Subpar
+16,12,Pinnacle of taste
+15,4,Exquisite
+49,2,Dull
+28,12,Gourmet
+49,14,Pinnacle of taste
+13,17,Flavorless
+35,10,Subpar
+27,10,Outstanding
+45,1,Outstanding
+43,7,Bland
+46,20,Average
+11,13,Divine
+26,15,Inadequate
+19,9,Ordinary
+36,10,Outstanding
+30,19,Unpalatable
+29,1,Bland
+29,2,Mediocre
+27,3,Subpar
+10,9,Luxurious
+53,1,Subpar
+40,6,Ho-hum
+23,6,Tasteless
+36,13,culinary masterpiece
+40,10,Ordinary
+54,19,Mediocre
+1,20,Divine
+21,5,Pinnacle of taste
+49,2,Masterfully prepared
+4,16,Exquisite
+48,3,Decent
+6,1,Divine
+16,1,Exceptional
+34,16,Ho-hum
+56,19,Middling
+14,12,Unpalatable
+17,7,Vapid
+40,16,Divine
+22,9,Fair
+23,10,Adequate
+38,11,Outstanding
+29,13,Mouthwatering
+44,17,culinary masterpiece
+47,8,culinary masterpiece
+15,6,Passable
+31,5,Gourmet
+6,6,culinary masterpiece
+50,4,Gourmet
+3,15,Luxurious
+29,15,Pinnacle of taste
+50,2,Passable
+16,9,Flavorless
+43,9,Middling
+51,3,Decent
+52,15,culinary masterpiece
+48,7,Mediocre
+10,19,Outstanding
+20,13,Superb
+9,2,Bland
+23,8,Exquisite
+9,14,Delectable
+3,8,Delectable
+22,2,Adequate
+55,16,Ordinary
+51,19,Average
+46,13,Dull
+23,11,Ordinary
+57,18,Mouthwatering
+40,11,Bland
+15,16,Tantalizing
+45,12,Unappetizing
+22,12,Tasteless
+6,13,Dull
+57,3,Adequate
+17,12,Superb
+42,13,Lackluster
+54,17,Superb
+19,13,Outstanding
+35,17,Inadequate
+5,3,Tantalizing
+20,5,Mediocre
+16,8,Flavorless
+35,17,Gourmet
+41,1,Average
+56,20,Subpar
+42,8,Dull
+20,1,Ho-hum
+27,20,Flavorless
+27,4,Excellent
+40,3,Top-notchCulinary delight
+23,10,Average
+16,2,Masterfully prepared
+43,17,Delectable
+31,10,Divine
+24,14,Excellent
+35,2,Dull
+48,16,Divine
+47,14,Lackluster
+28,4,Vapid
+43,9,Vapid
+16,12,Adequate
+26,18,Mouthwatering
+12,14,Delectable
+4,19,Exquisite
+9,17,Tantalizing
+20,9,Flavorful
+36,1,Subpar
+11,2,Average
+11,13,culinary masterpiece
+54,12,Ho-hum
+12,9,Average
+20,4,Gourmet
+53,9,Delectable
+17,2,Run-of-the-mill
+5,7,Ordinary
+52,1,Remarkable
+20,11,Lackadaisical
+50,7,Lackadaisical
+52,10,Remarkable
+40,10,Flavorless
+3,5,Gourmet
+10,17,Average
+23,14,Passable
+10,1,Tantalizing
+17,13,Middling
+13,20,Tantalizing
+45,19,Subpar
+21,8,Bland
+51,3,Delectable
+24,4,Run-of-the-mill
+37,18,Exquisite
+31,12,culinary masterpiece
+41,1,Average
+22,7,Average
+45,11,Delectable
+24,11,Decent
+52,17,Unappetizing
+19,17,Mediocre
+33,15,Mouthwatering
+18,14,Mouthwatering
+35,2,Dull
+10,5,Passable
+5,13,Ordinary
+35,18,Average
+7,14,Lackluster
+1,20,Mediocre
+31,10,Ordinary
+13,4,Unimpressive
+18,18,Run-of-the-mill
+50,10,Flavorless
+43,6,Sumptuous
+40,17,Impressive
+14,2,Passable
+14,16,Lackadaisical
+22,1,Adequate
+54,14,Ordinary
+32,12,Flavorless
+56,4,Exceptional
+6,3,Subpar
+51,4,Decent
+24,8,Ordinary
+35,16,Run-of-the-mill
+55,12,Masterfully prepared
+34,2,Run-of-the-mill
+5,13,Impressive
+34,4,Tasteless
+28,14,Unpalatable
+20,9,Tasteless
+26,5,Lackadaisical
+32,16,Flavorless
+6,15,Middling
+57,5,Ordinary
+12,12,Outstanding
+5,1,Impressive
+50,5,Inadequate
+20,7,Unimpressive
+36,20,Masterfully prepared
+1,12,Subpar
+7,16,Unappetizing
+41,5,Passable
+40,16,Unimpressive
+47,10,Gourmet
+32,9,Average
+54,8,Adequate
+55,6,Top-notchCulinary delight
+9,3,Tasteless
+13,8,Excellent
+56,15,Pinnacle of taste
+28,8,Remarkable
+56,9,Unappetizing
+15,2,Exquisite
+24,16,Lackadaisical
+24,1,Tasteless
+39,1,Mediocre
+39,4,Inadequate
+22,9,Unappetizing
+16,13,Sumptuous
+5,3,Flavorless
+33,12,Tantalizing
+12,2,Tantalizing
+6,9,Unimpressive
+35,7,Top-notchCulinary delight
+36,1,Average
+40,15,Fair
+49,6,Dull
+43,14,Unimpressive
+16,2,Mouthwatering
+24,12,Fair
+14,3,Adequate
+12,17,Flavorless
+40,4,Run-of-the-mill
+2,18,Ho-hum
+4,2,Mouthwatering
+37,18,Flavorless
+48,5,Impressive
+14,11,Remarkable
+11,9,Top-notchCulinary delight
+19,7,Bland
+28,6,Sumptuous
+10,12,Subpar
+22,18,Divine
+21,19,Fair
+24,6,Exquisite
+13,9,Ordinary
+46,14,Impressive
+5,17,Unpalatable
+47,16,Decent
+6,9,Flavorless
+16,11,Middling
+14,8,Subpar
+43,7,Subpar
+15,18,Divine
+48,16,Exceptional
+9,14,Divine
+45,1,Lackadaisical
+20,14,Masterfully prepared
+4,15,Unpalatable
+26,3,Passable
+26,8,Ho-hum
+38,14,Dull
+18,3,culinary masterpiece
+50,2,Outstanding
+7,18,Tantalizing
+10,20,Ho-hum
+29,2,Flavorless
+13,14,Superb
+43,19,Vapid
+9,18,Bland
+23,8,Masterfully prepared
+4,9,Divine
+19,20,Average
+26,7,Remarkable
+7,4,Luxurious
+30,13,Gourmet
+33,4,Dull
+5,5,Decent
+53,10,Ordinary
+43,15,Bland
+34,9,Ordinary
+35,15,Average
+49,17,Passable
+10,11,Excellent
+53,4,Exceptional
+35,15,Passable
+20,15,Adequate
+26,9,Impressive
+19,15,Unpalatable
+22,17,Flavorful
+33,4,Average
+32,1,Divine
+22,19,Vapid
+45,1,Vapid
+40,6,Unimpressive
+41,16,Excellent
+35,5,Delectable
+3,19,Remarkable
+56,18,Exquisite
+1,9,Decent
+44,1,Impressive
+38,12,Masterfully prepared
+50,16,Decent
+14,1,Lackadaisical
+44,2,Unappetizing
+18,17,Adequate
+55,12,Passable
+37,17,Lackadaisical
+28,15,Divine
+39,11,Masterfully prepared
+41,4,Ho-hum
+41,15,Ordinary
+49,7,Subpar
+32,13,Fair
+48,10,Inadequate
+4,10,Excellent
+57,16,Gourmet
+28,9,Vapid
+54,9,Mediocre
+15,16,Inadequate
+11,14,Ho-hum
+33,19,Lackadaisical
+17,7,culinary masterpiece
+5,19,Subpar
+2,1,Superb
+6,18,Inadequate
+32,11,Top-notchCulinary delight
+7,3,Dull
+12,11,Flavorless
+42,19,Bland
+27,7,Dull
+45,13,Decent
+6,11,Pinnacle of taste
+19,16,Mediocre
+5,17,culinary masterpiece
+57,12,Middling
+36,10,Middling
+42,5,Adequate
+40,20,culinary masterpiece
+43,9,Tantalizing
+11,2,Ho-hum
+1,1,Divine
+26,9,Ho-hum
+54,13,Divine
+37,8,Mouthwatering
+17,15,Ordinary
+18,3,Ho-hum
+48,14,Inadequate
+51,5,Tasteless
+39,19,Superb
+2,17,culinary masterpiece
+48,1,Dull
+16,14,Flavorful
+38,17,Superb
+35,19,Passable
+55,3,Tantalizing
+55,4,Fair
+55,8,Vapid
+26,10,Ho-hum
+41,13,Average
+31,9,Ordinary
+2,8,Ho-hum
+25,4,Adequate
+29,2,Fair
+11,6,Divine
+47,6,Unpalatable
+39,17,culinary masterpiece
+53,17,Mediocre
+19,14,Mediocre
+1,20,Superb
+45,15,Exceptional
+25,4,Bland
+1,20,Bland
+23,5,Unappetizing
+55,5,Flavorless
+9,8,Impressive
+20,4,Unpalatable
+10,20,Inadequate
+21,9,Impressive
+41,17,Average
+46,9,Gourmet
+17,2,Impressive
+38,4,Superb
+10,15,Vapid
+1,20,Lackadaisical
+53,16,Dull
+36,7,Unappetizing
+30,10,Ho-hum
+37,14,Passable
+23,18,Exceptional
+44,10,Bland
+38,11,Bland
+1,16,Mediocre
+30,11,Lackluster
+12,5,Delectable
+49,7,Tasteless
+49,18,Middling
+16,12,Flavorless
+21,12,Vapid
+28,16,Impressive
+43,12,Decent
+9,10,Tantalizing
+33,7,Average
+32,15,Impressive
+25,11,Unpalatable
+54,19,Outstanding
+23,18,Exquisite
+34,2,Mediocre
+13,18,Lackluster
+52,14,Tasteless
+48,14,Outstanding
+16,17,Average
+12,6,Tantalizing
+8,15,Unimpressive
+9,9,Adequate
+46,15,Lackluster
+29,10,Remarkable
+56,18,Outstanding
+56,16,Dull
+25,2,Inadequate
+33,14,Luxurious
+55,18,Top-notchCulinary delight
+24,3,Unpalatable
+7,11,Average
+11,10,Adequate
+50,18,Top-notchCulinary delight
+10,19,Impressive
+56,5,Top-notchCulinary delight
+2,2,Subpar
+22,20,Flavorless
+25,11,Passable
+38,3,Ordinary
+3,15,Average
+2,1,Sumptuous
+2,7,Masterfully prepared
+49,3,Unimpressive
+55,6,Unappetizing
+35,15,Average
+13,16,Remarkable
+55,6,Middling
+43,19,Unappetizing
+34,17,Fair
+38,8,Masterfully prepared
+22,18,Bland
+40,9,Remarkable
+9,3,Divine
+13,20,Luxurious
+3,8,Subpar
+34,4,Lackadaisical
+31,7,Subpar
+7,7,Superb
+56,9,Adequate
+42,15,Fair
+25,8,Ordinary
+18,3,Vapid
+44,2,Subpar
+4,7,Excellent
+43,1,Unimpressive
+56,14,Mouthwatering
+12,11,Mediocre
+15,10,Middling
+53,17,Lackluster
+3,1,Lackluster
+8,15,Passable
+37,5,Delectable
+12,16,Lackluster
+11,13,Tantalizing
+29,1,Run-of-the-mill
+5,16,Subpar
+53,2,Divine
+13,6,Ho-hum
+22,12,Divine
+54,7,Masterfully prepared
+1,5,Flavorful
+24,3,Subpar
+46,2,Pinnacle of taste
+8,1,Gourmet
+25,19,Passable
+36,16,Flavorless
+2,17,Luxurious
+46,17,Fair
+42,12,Dull
+48,11,Fair
+23,9,Vapid
+50,2,Run-of-the-mill
+9,20,Tantalizing
+49,5,Exceptional
+32,14,Pinnacle of taste
+38,1,Luxurious
+57,11,Sumptuous
+13,2,Superb
+20,11,Passable
+16,13,Fair
+9,18,Lackadaisical
+27,15,Ho-hum
+36,5,Subpar
+56,5,Passable
+47,1,Run-of-the-mill
+33,3,Pinnacle of taste
+8,18,Sumptuous
+5,9,Lackluster
+38,12,Flavorful
+30,16,Tantalizing
+48,3,Remarkable
+32,8,Average
+40,15,Decent
+54,11,culinary masterpiece
+44,1,Masterfully prepared
+57,4,Masterfully prepared
+22,14,Unpalatable
+17,8,Adequate
+47,2,Middling
+37,13,Middling
+23,9,Outstanding
+17,14,Middling
+46,15,Bland
+15,16,Top-notchCulinary delight
+47,17,Unimpressive
+18,1,Ho-hum
+31,7,Average
+7,12,Middling
+26,3,Tasteless
+24,2,Middling
+23,2,Unpalatable
+50,1,Tasteless
+4,16,Outstanding
+48,20,Unpalatable
+57,2,Delectable
+4,19,Delectable
+46,5,Run-of-the-mill
+37,16,Bland
+6,11,Bland
+1,15,Flavorless
+43,13,Vapid
+32,20,Divine
+3,12,Delectable
+22,6,Fair
+2,16,Outstanding
+40,17,Remarkable
+57,4,Sumptuous
+8,16,Remarkable
+51,4,Sumptuous
+25,9,Bland
+53,14,Vapid
+16,6,culinary masterpiece
+42,6,Unpalatable
+3,1,Decent
+46,4,Flavorless
+23,18,Fair
+52,7,Sumptuous
+52,15,Ho-hum
+10,2,Vapid
+55,20,Middling
+13,18,Fair
+47,1,Dull
+15,7,Remarkable
+56,2,Fair
+42,7,Bland
+13,16,Average
+18,14,Ordinary
+14,20,Divine
+20,5,Unpalatable
+1,5,Unimpressive
+8,4,Flavorless
+5,4,Lackadaisical
+32,6,Average
+26,15,Outstanding
+6,16,Middling
+43,7,Ordinary
+3,17,Mouthwatering
+1,11,Delectable
+22,1,Unappetizing
+14,5,Superb
+26,17,Fair
+18,18,Gourmet
+33,14,Unimpressive
+45,11,Ordinary
+11,11,Tasteless
+51,19,Ho-hum
+2,18,Impressive
+34,9,Exquisite
+41,20,Ordinary
+31,19,Lackluster
+23,4,Lackadaisical
+28,1,Run-of-the-mill
+24,7,Mediocre
+4,15,Middling
+51,14,Remarkable
+57,17,Lackluster
+55,18,Flavorless
+20,5,Bland
+33,13,Pinnacle of taste
+49,2,Ordinary
+31,11,Ordinary
+41,5,Bland
+46,3,Excellent
+35,14,Unimpressive
+9,8,Gourmet
+1,14,Lackadaisical
+42,7,Middling
+14,18,Pinnacle of taste
+42,17,Ordinary
+27,1,Lackadaisical
+55,10,Mouthwatering
+27,7,Subpar
+28,4,Impressive
+46,19,Ordinary
+2,1,Unappetizing
+39,7,Inadequate
+37,9,Unimpressive
+46,9,Ho-hum
+34,1,Divine
+37,14,Pinnacle of taste
+35,13,Tasteless
+37,17,Ho-hum
+16,18,Mediocre
+53,20,Ho-hum
+35,1,Tasteless
+52,14,Sumptuous
+14,2,Mediocre
+43,14,Ho-hum
+39,13,Unappetizing
+44,20,Unappetizing
+41,1,Unimpressive
+53,13,Superb
+35,5,Vapid
+41,14,Fair
+33,9,Average
+1,20,Divine
+27,4,Flavorless
+32,1,Inadequate
