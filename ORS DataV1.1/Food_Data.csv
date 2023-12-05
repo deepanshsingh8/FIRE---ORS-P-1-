@@ -1,0 +1,694 @@
+FoodID,FoodName,Category
+1,Cappuccino [DT] (Normal),Hot Beverages [DT]
+2,Turkish Dolmas (Lamb) ( 3pcs) (NEW) [DT],Mediterranean Appetizers And Mezzee (Non Veg) [DT]
+3,Adana Kebab TOPSELLER [DT],Turkish Kebabs-Non Veg [DT]
+4,Chicken Urfa Kebab [DT],Turkish Kebabs-Non Veg [DT]
+5,Chicken Urfa Burger (NEW) [DT],"Sandwiches, Burgers, Gyros (Non Veg) [DT]"
+6,Roasted Pumkin Soup [DT],Soups [DT]
+7,Avacado And Quinoa [DT],Salads (Veg) [DT]
+8,Turkish Dolmas (Veg) (3 Pcs) (New) [DT],Mediterranean Appetizers & Mezzee (Veg) [DT]
+9,Mushroom Galawati Kebab [DT],Kebabs -Veg [DT]
+10,Classic Waffle With Choice Of Syrup [DT],Desserts [DT]
+11,Dal Makhani [DT],Mains -Veg [DT]
+12,Paneer Banjara Masala With Naan/Roti [DT] (Full),Mains -Veg [DT]
+13,Water 500ml [DT],Other Beverages [DT]
+14,Persian Rice Saffron Flavour [DT],Rice & Exotic Pulaos [DT]
+15,Tropical Slush [DT],Slushy [DT]
+16,Soft Drink [DT] (Coke),Other Beverages [DT]
+17,Hoegaarden,Beer
+18,Kingfisher Ultra,Beer
+19,Mezze Platter (d) [DT],Mediterranean Appetizers & Mezzee (Veg) [DT]
+20,Alinazik Kebab (Chicken+Lamb) [DT],Mediterranean Appetizers And Mezzee (Non Veg) [DT]
+21,Turkish Beyti Kebab- Chicken [DT],Mediterranean Appetizers And Mezzee (Non Veg) [DT]
+22,Potato Fries With Peri Peri (100Gms) [DT],Dips & Sides [DT]
+23,Penne Pasta Authentic Italian (veg) New [DT],Mains -Veg [DT]
+24,Herbs Rice Pilaf Veg [DT],Rice & Exotic Pulaos [DT]
+25,Turkish Beryani Pilav -Mutton [DT],Rice & Exotic Pulaos [DT]
+26,Multani Paneer Tikka [DT],Kebabs -Veg [DT]
+27,Diet Coke [DT],Other Beverages [DT]
+28,Falafel Roll,Open Item [DT]
+29,Chicken Cheese Pide [DT],Turkish Pizzas & Pides (Non Veg) [DT]
+30,Afghani Malai Soya Chaap [DT],Kebabs -Veg [DT]
+31,Mix Veg Handi With Naan/Roti [DT],Mains -Veg [DT]
+32,Butter Naan [DT],Breads [DT]
+33,Batata Harra [DT],Kebabs -Veg [DT]
+34,Water 01l [DT],Other Beverages [DT]
+35,Kafir Passion Fizz [DT],Coolers [DT]
+36,Ryba Beyti Kebab (Turkish Lasagne) NEW (Beyti Kebab Mutton),Mediterranean Appetizers And Mezzee (Non Veg) [OLN]
+37,Non Veg Gyro Meal Chicken+Mutton,"Sandwiches, Burgers, Gyros (Non Veg) [OLN]"
+38,Adana Kebab-Turkish,Turkish Kebabs-Non Veg [OLN]
+39,Chicken Urfa Kebab Turkish,Turkish Kebabs-Non Veg [OLN]
+40,Adana Lamb Burger (MUST TRY) (NEW) [DT],"Sandwiches, Burgers, Gyros (Non Veg) [DT]"
+41,Italian Wedding Soup-Non Veg [DT],Soups [DT]
+42,Stuffed Chicken Breast (New) [DT],New Exotic Mains Mediterranean Turkish [DT]
+43,Peshawari Namkeen Ghost (Chefs Special) (New) (Half),Mains -Non Veg [OLN]
+44,Freshly Baked Pita,Breads [OLN]
+45,RYBA Alinazik Kebab NEW (Alinazik Chicken Kebab),Mediterranean Appetizers And Mezzee (Non Veg) [OLN]
+46,The Close North,Open Item [DT]
+47,DLF Exclusive,Open Item [DT]
+48,Persian Jujeh Kebab (Chicken) [DT],Turkish Kebabs-Non Veg [DT]
+49,Fresh Lime,Other Beverages [DT]
+50,Freshly Baked Pita [DT],Breads [DT]
+51,Chelow Kebab Meal (Chicken Double) [DT],Turkish Kebabs-Non Veg [DT]
+52,Chelow Kebab Meal (Lamb Double) [DT],Turkish Kebabs-Non Veg [DT]
+53,Falafel Pita Roll [DT],"Sandwiches, Burgers, Gyros (Veg) [DT]"
+54,Healthy Lebanese Fateh Salad-Veg [DT],Salads (Veg) [DT]
+55,Bira Blonde,Beer
+56,Arbi Ke Kebab [DT],Kebabs -Veg [DT]
+57,Peshawari Namkeen Ghost (chefs Special) (new) [dt] (Half),Mains -Non Veg [DT]
+58,Turkish Lavash [DT],Breads [DT]
+59,Chelow Kebab Meal (Mix Double) [DT],Turkish Kebabs-Non Veg [DT]
+60,RYBA Alinazik Kebab NEW (Alinazik (Mutton+Chicken) Mix Kebab),Mediterranean Appetizers And Mezzee (Non Veg) [OLN]
+61,Multani Paneer Tikka,Kebabs -Veg [OLN]
+62,JUMBO Non Veg Kebab Meal Combo(0.6 Kg) 2-3 Persons TOPSELLER [DT],Turkish Kebabs-Non Veg [DT]
+63,Chicken Gyro (Topseller) [DT],"Sandwiches, Burgers, Gyros (Non Veg) [DT]"
+64,Classic Veg Pide [DT],Turkish Pizzas & Pides (Veg) [DT]
+65,Rybas Red Chicken Korma [DT] (Half (4pcs)),Mains -Non Veg [DT]
+66,Garlic Naan [DT],Breads [DT]
+67,Mojito [DT],Coolers [DT]
+68,Roti [DT] (Butter),Breads [DT]
+69,Ryba Red Chicken Korma (Quarter [2 pieces]),Mains -Non Veg [OLN]
+70,Syrian Shish Tawook (Chicken) (NEW) [DT],Turkish Kebabs-Non Veg [DT]
+71,Chicken Lahmacun [DT],Turkish Pizzas & Pides (Non Veg) [DT]
+72,Chicken Gyro Roll,"Sandwiches, Burgers, Gyros (Non Veg) [OLN]"
+73,Adana Kebab Topseller,Turkish Kebabs-Non Veg [OLN]
+74,Flavoured Frappachino [DT],Frappachino [DT]
+75,Turkish Tea,Open Item [DT]
+76,Turkish Beyti Kebab-Lamb [DT],Mediterranean Appetizers And Mezzee (Non Veg) [DT]
+77,Hummus Dip (160 Gms) [DT],Dips & Sides [DT]
+78,Sula Brut,Sparkling Wine
+79,Turkish Lavash,Breads [OLN]
+80,Ryba Red Chicken Korma (Full[8 pieces]),Mains -Non Veg [OLN]
+81,Sula Sauv Blanc - White (Glass),Wine
+82,Chelow Kebab Mutton Double Meal,Turkish Kebabs-Non Veg [OLN]
+83,Turkish Lamb Chops (Kuzu Pirloza) (New),Turkish Kebabs-Non Veg [OLN]
+84,Persian Jujeh Kebab (chicken),Turkish Kebabs-Non Veg [OLN]
+85,Ryba Red Chicken Korma (Half [4 pieces]),Mains -Non Veg [OLN]
+86,Butter Naan,Breads [OLN]
+87,Italian Salisbury Steak Lamb (New) [DT],New Exotic Mains Mediterranean Turkish [DT]
+88,Watermelon Thirst [DT],Coolers [DT]
+89,Regency Park 2,Open Item [DT]
+90,Pide Veg With Cheese (Turkish Pizza),Turkish Pizzas & Pides (Veg) [OLN]
+91,Turkish Beyti Kebab-(Chicken+Lamb) [DT],Mediterranean Appetizers And Mezzee (Non Veg) [DT]
+92,Mutton Lahmacun [DT],Turkish Pizzas & Pides (Non Veg) [DT]
+93,Budweiser,Beer
+94,Tea [DT],Hot Beverages [DT]
+95,Icead Tea [DT],Coolers [DT]
+96,The Close South,Open Item [DT]
+97,Turkish Beryani Pilav -Chicken [DT],Rice & Exotic Pulaos [DT]
+98,Nui (Glass),Sparkling Wine
+99,Doppio [DT],Hot Beverages [DT]
+100,Latte [DT] (Normal),Hot Beverages [DT]
+101,Healthy Lebanese Fateh-Chicken [DT],Salads (Non Veg) [DT]
+102,Veggie Cheese Burger (NEW) [DT],"Sandwiches, Burgers, Gyros (Veg) [DT]"
+103,Peshawari Namkeen Ghost (Chefs Special) (New) (Full),Mains -Non Veg [OLN]
+104,Spicy Guava Merry [DT],Coolers [DT]
+105,Blueberry Blitz [DT],Slushy [DT]
+106,Watermelon Basil Shrub [DT],Slushy [DT]
+107,Penne Pasta Authetic Italian (chicken) (new) [DT],New Exotic Mains Mediterranean Turkish [DT]
+108,Tuscan Chicken (New) [DT],New Exotic Mains Mediterranean Turkish [DT]
+109,Plain Naan [DT],Breads [DT]
+110,Lamb Cheese Pide [DT],Turkish Pizzas & Pides (Non Veg) [DT]
+111,Hoegaarden 330ml,Beer
+112,Kf Ultra 330ml,Beer
+113,Budweiser 330ml,Beer
+114,Lebanese Baklava 4 Pcs [DT],Desserts [DT]
+115,Garlic Rosemary Grilled Lamb Chops- House Special (New) [DT],New Exotic Mains Mediterranean Turkish [DT]
+116,Roti [DT] (Plain),Breads [DT]
+117,Princeton Estate,Open Item [DT]
+118,Turkish Mutton Lahmacun Pizza,Turkish Pizzas & Pides (Non Veg) [OLN]
+119,Hummus Dip (160 Gms),Dips & Sides [OLN]
+120,JUMBO Non Veg Kebab Meal Combo(1.2 Kg) -4-5 Persons TOPSELLER [DT],Turkish Kebabs-Non Veg [DT]
+121,JUMBO Veg Kebab Meal Combo (0.5kg-0.6 Kg)- 2-3 Persons [DT],Kebabs -Veg [DT]
+122,Blueberry Basil Spritzer [DT],Coolers [DT]
+123,Litchi Punch [DT],Coolers [DT]
+124,Pide Chicken With Cheese (Boat Pizza),Turkish Pizzas & Pides (Non Veg) [OLN]
+125,Richmond Park,Open Item [DT]
+126,Grilled Lamb Chops(new) [DT],Turkish Kebabs-Non Veg [DT]
+127,Mocha [DT] (Normal),Hot Beverages [DT]
+128,Babaganoush Dip (160 Grams) [DT],Dips & Sides [DT]
+129,Muhamara Dip (160 Grms) [DT],Dips & Sides [DT]
+130,Tzatziki Dip (160 Grams) [DT],Dips & Sides [DT]
+131,Spirite,Beverages [Oln]
+132,Potato Fries With Peri Peri (100gms),Dips & Sides [OLN]
+133,Kuzu Guvec (Turkish Lamb Casserole) House Special (New) [DT] (Full),New Exotic Mains Mediterranean Turkish [DT]
+134,Item 1,Open Item [DT]
+135,Syrian Shish Tawook (Chicken) (New),Turkish Kebabs-Non Veg [OLN]
+136,Turkish Dolmas (lamb) (3 Pcs) (new) [DT],Mediterranean Appetizers & Mezzee (Veg) [DT]
+137,Turkish Dolmas (Lamb) ( 3Pcs) (New),Mediterranean Appetizers And Mezzee (Non Veg) [OLN]
+138,Neapolitan Calzone With Veges [DT],Turkish Pizzas & Pides (Veg) [DT]
+139,Alinazik Kebab-Lamb [DT],Mediterranean Appetizers And Mezzee (Non Veg) [DT]
+140,Chocolate Brownie With Icecream [DT],Desserts [DT]
+141,Tomato Basil Soup [DT],Soups [DT]
+142,Cold Coffee,Beverages [Oln]
+143,Chelow Kebab Mix Double Meal,Turkish Kebabs-Non Veg [OLN]
+144,Turkish Beryani Pilav -Chicken,Rice & Exotic Pulaos [OLN]
+145,Blueberry Blush [DT],Shakes [DT]
+146,Mr. Butterscotch [DT],Shakes [DT]
+147,Parsavnath Event,Open Item [DT]
+148,Adana Lamb Burger (must Try) (new),"Sandwiches, Burgers, Gyros (Non Veg) [OLN]"
+149,Alinazik Kebab-Chicken [DT],Mediterranean Appetizers And Mezzee (Non Veg) [DT]
+150,Fresh Lime Soda,Other Beverages [DT]
+151,Ryba Beyti Kebab (Turkish Lasagne) NEW (Beyti Kebab Chicken),Mediterranean Appetizers And Mezzee (Non Veg) [OLN]
+152,Muhamara Dip (160 Grms),Dips & Sides [OLN]
+153,Tatvam Villa-20 Catering Event,Open Item [DT]
+154,fresh lime soda mix,Other Beverages [DT]
+155,Macchiato [DT],Hot Beverages [DT]
+156,Kibbeh- Icli Kofte (Veg) (4 Pcs) (New) [DT],Mediterranean Appetizers & Mezzee (Veg) [DT]
+157,Chelow Kebab Chicken Double Meal,Turkish Kebabs-Non Veg [OLN]
+158,Classic Caeser -Veg [DT],Salads (Veg) [DT]
+159,Turkish Tea,Other Beverages [DT]
+160,Tatvam Event,Open Item [DT]
+161,Lamb Gyro (Topseller) [DT],"Sandwiches, Burgers, Gyros (Non Veg) [DT]"
+162,Precious Berry Brust [DT],Slushy [DT]
+163,RYBA Alinazik Kebab NEW (Alinazik Mutton Kebab),Mediterranean Appetizers And Mezzee (Non Veg) [OLN]
+164,fresh lime soda solty,Other Beverages [DT]
+165,Mutton Gyro Roll,"Sandwiches, Burgers, Gyros (Non Veg) [OLN]"
+166,The Mezze Platter,Mediterranean Appetizers & Mezzee (Veg) [OLN]
+167,Garlic Naan,Breads [OLN]
+168,Roti (Butter),Breads [OLN]
+169,Rybas Red Chicken Korma [DT] (Full (8pcs)),Mains -Non Veg [DT]
+170,Peshawari Namkeen Ghost (Chefs Special) (New) [DT] (Full),Mains -Non Veg [DT]
+171,Veggie Cheese Burger (New),"Sandwiches, Burgers, Gyros (Veg) [OLN]"
+172,Catering Event,Open Item [DT]
+173,Paneer Banjara Masala With Naan/Roti [DT] (Half),Mains -Veg [DT]
+174,Americano [DT] (Americano),Hot Beverages [DT]
+175,lacha paratha,Other Beverages [DT]
+176,Soya Chaap Masala With Naan/Roti [DT] (Full),Mains -Veg [DT]
+177,Cheesy Oreo [DT],Shakes [DT]
+178,Falafel Veg Meal [DT],"Sandwiches, Burgers, Gyros (Veg) [DT]"
+179,Veg Falafel Meal,"Sandwiches, Burgers, Gyros (Veg) [OLN]"
+180,Batata Harra,Kebabs -Veg [OLN]
+181,Garlic Bread [DT] (Plain),Breads [DT]
+182,Americano [DT] (Iced Americano),Hot Beverages [DT]
+183,Tatvam Villa Event,Other Beverages [DT]
+184,Red Mystery [DT],Shakes [DT]
+185,Ryba Beyti Kebab (Turkish Lasagne) NEW (Beyti (Mutton+Chicken) Mix Kebab),Mediterranean Appetizers And Mezzee (Non Veg) [OLN]
+186,Cold Coffee [DT],Shakes [DT]
+187,Hot Chocolate [DT],Hot Beverages [DT]
+188,Tandoori Murg [DT],Turkish Kebabs-Non Veg [DT]
+189,Normal Frappachino [DT],Frappachino [DT]
+190,Cilbir with Hydri and pita,Open Item [DT]
+191,buttersctoch ice cream,Other Beverages [DT]
+192,Dal Makhani,Mains -Veg [OLN]
+193,Mocha [DT] (Flavoured),Hot Beverages [DT]
+194,Coke,Beverages [Oln]
+195,turkish cofee,Other Beverages [DT]
+196,tonic orange,Other Beverages [DT]
+197,pudina paratha,Open Item [DT]
+198,Green chilly paratha,Open Item [DT]
+199,Cappuccino [DT] (Flavoured),Hot Beverages [DT]
+200,Turkish Beryani Pilav -Mutton,Rice & Exotic Pulaos [OLN]
+201,fress lam soda,Open Item [DT]
+202,Choco Strawberry [DT],Shakes [DT]
+203,Jumbo Non Veg Kebab Meal Combo(0.6 Kg) 2-3 Persons Topseller,Turkish Kebabs-Non Veg [OLN]
+204,Classic Caeser -Veg,Salads (Veg) [OLN]
+205,Garlic Bread [DT] (Cheese),Breads [DT]
+206,Veg Chatpata Falafel Roll,"Sandwiches, Burgers, Gyros (Veg) [OLN]"
+207,Garlic Rosemary Grilled Lamb Chops- House Special (New),New Exotic Mains Mediterranean Turkish [OLN]
+208,1 pita with humus,Open Item [DT]
+209,Lebanese Baklava 4 Pcs,Desserts [OLN]
+210,Turkish Chicken Lahmacun Pizza,Turkish Pizzas & Pides (Non Veg) [OLN]
+211,Ice Cream(02 Scoops) (American Nuts),Desserts [DT]
+212,Classic Caeser-Chicken [DT],Salads (Non Veg) [DT]
+213,Tandoori Chicken-1 (Full),Turkish Kebabs-Non Veg [OLN]
+214,Ice Cream(02 Scoops) (Paan),Desserts [DT]
+215,Pita with Humus(C),Open Item [DT]
+216,Babaganoush Dip (160 Grams),Dips & Sides [OLN]
+217,lacha parataha whith green chilly,Other Beverages [DT]
+218,lemon 8,Other Beverages [DT]
+219,Soft Drink [DT] (Sprite),Other Beverages [DT]
+220,Yummy Kiwi [DT],Shakes [DT]
+221,Butter Chicken Ryba Special (Half [4 Pieces]),Mains -Non Veg [OLN]
+222,Buratta Green Salad-House Special [DT],Salads (Veg) [DT]
+223,Neapolitan Calzone With Veges,Turkish Pizzas & Pides (Veg) [OLN]
+224,Ryba's Butter Chicken [DT] (Full),Mains -Non Veg [DT]
+225,fresh lime solty,Other Beverages [DT]
+226,fresh lime mix soda,Other Beverages [DT]
+227,Non Veg Gyro Meal (Chicken+Lamb) [DT],"Sandwiches, Burgers, Gyros (Non Veg) [DT]"
+228,Coke Zero,Other Beverages [DT]
+229,friesh lime water,Other Beverages [DT]
+230,Ryba's Butter Chicken [DT] (Half),Mains -Non Veg [DT]
+231,mix soya chaap less butter,Open Item [DT]
+232,Vienna [DT],Hot Beverages [DT]
+233,Roasted Pumkin Soup,Soups [OLN]
+234,Garlic Bread (Plain),Breads [OLN]
+235,Paneer Banjara Masala With Naan/Roti (Half),Mains -Veg [OLN]
+236,Tzatziki Dip (160 Grams),Dips & Sides [OLN]
+237,Italian Salisbury Steak Lamb (New),New Exotic Mains Mediterranean Turkish [OLN]
+238,Kibbeh- Icli Kofte (Veg) (4 Pcs) (New),Mediterranean Appetizers & Mezzee (Veg) [OLN]
+239,Plain Naan,Breads [OLN]
+240,Lamb Souvalaki Kabobs (New),Turkish Kebabs-Non Veg [OLN]
+241,fresh lome water,Other Beverages [DT]
+242,Gulab Jamun(04pcs),Desserts [DT]
+243,Diet Coke,Beverages [Oln]
+244,Mushroom Galawati Kebab,Kebabs -Veg [OLN]
+245,Afghani Malai Soya Chaap,Kebabs -Veg [OLN]
+246,Paneer Banjara Masala With Naan/Roti (Full),Mains -Veg [OLN]
+247,Soya Chaap Masala With Naan/Roti (Half),Mains -Veg [OLN]
+248,Roti (Plain),Breads [OLN]
+249,Fatayer Sabanekh (5 Pcs) (New) [DT],Mediterranean Appetizers & Mezzee (Veg) [DT]
+250,Jumbo Non Veg Kebab Meal Combo(1.2 Kg) -4-5 Persons Topseller,Turkish Kebabs-Non Veg [OLN]
+251,Garlic Bread (Cheese),Breads [OLN]
+252,Fatayer Sabanekh (5 Pcs) (new),Mediterranean Appetizers & Mezzee (Veg) [OLN]
+253,Soya Chaap Masala With Naan/Roti (Full),Mains -Veg [OLN]
+254,Fresh Lime Mix,Other Beverages [DT]
+255,Gulab Jamun,Open Item [DT]
+256,Lamb Souvalaki Kabobs (NEW) [DT],Turkish Kebabs-Non Veg [DT]
+257,frish lime soda,Other Beverages [DT]
+258,Fresh Lime Soda Mix,Open Item [DT]
+259,Esspresso [DT],Hot Beverages [DT]
+260,Pide Mutton With Cheese (Boat Pizza),Turkish Pizzas & Pides (Non Veg) [OLN]
+261,Arbi Ke Kebab,Kebabs -Veg [OLN]
+262,Soya Chaap Masala With Naan/Roti [DT] (Half),Mains -Veg [DT]
+263,Lamb Kibbeh- Icli Kofte (5 Pcs) (NEW) [DT],Mediterranean Appetizers And Mezzee (Non Veg) [DT]
+264,Lamb Kibbeh- Icli Kofte (5 Pcs) (new),Mediterranean Appetizers And Mezzee (Non Veg) [OLN]
+265,Open [DT],Other Beverages [DT]
+266,Rybas Red Chicken Korma (Half (4pcs)),Mains -Non Veg
+267,Adana Kebab TOPSELLER,Turkish Kebabs-Non Veg
+268,Diet Coke [o],Other Beverages
+269,Butter Naan,Breads
+270,Afghani Malai Soya Chaap,Kebabs -Veg
+271,Falafel Pita Roll,"Sandwiches, Burgers, Gyros (Veg)"
+272,JUMBO Non Veg Kebab Meal Combo(1.2 Kg) -4-5 Persons TOPSELLER,Turkish Kebabs-Non Veg
+273,Soft Drink [O] (Coke),Other Beverages
+274,Classic Veg Pide,Turkish Pizzas & Pides (Veg)
+275,Potato Fries With Peri Peri (100Gms),Dips & Sides
+276,Chicken Urfa Kebab,Turkish Kebabs-Non Veg
+277,Kibbeh- Icli Kofte (Veg) (4 Pcs) (New),Mediterranean Appetizers & Mezzee (Veg)
+278,Chicken Urfa Burger (NEW),"Sandwiches, Burgers, Gyros (Non Veg)"
+279,Blueberry Blitz [O],Slushy [O]
+280,Watermelon Basil Shrub [O],Slushy [O]
+281,Kafir Passion Fizz [o],Coolers [O]
+282,Mr. Butterscotch [o],Shakes [O]
+283,Mushroom Galawati Kebab,Kebabs -Veg
+284,Normal Frappachino [o],Frappachino [O]
+285,Alinazik Kebab-Lamb,Mediterranean Appetizers And Mezzee (Non Veg)
+286,Grilled Lamb Chops(new),Turkish Kebabs-Non Veg
+287,Dal Makhani,Mains -Veg
+288,Ryba's Butter Chicken (Half),Mains -Non Veg
+289,Peshawari Namkeen Ghost (Chefs Special) (New) (Half),Mains -Non Veg
+290,Roti (Plain),Breads
+291,Freshly Baked Pita,Breads
+292,Chocolate Brownie With Icecream,Desserts
+293,Italian Wedding Soup-Non Veg,Soups
+294,Roasted Pumkin Soup,Soups
+295,Alinazik Kebab-Chicken,Mediterranean Appetizers And Mezzee (Non Veg)
+296,Esspresso [O],Hot Beverages
+297,Turkish Lavash,Breads
+298,Spicy Guava Merry [o],Coolers [O]
+299,Mezze Platter (d),Mediterranean Appetizers & Mezzee (Veg)
+300,Fatayer Sabanekh (5 Pcs) (New),Mediterranean Appetizers & Mezzee (Veg)
+301,Watermelon Thirst [o],Coolers [O]
+302,Veggie Cheese Burger (NEW),"Sandwiches, Burgers, Gyros (Veg)"
+303,Lebanese Baklava 4 Pcs,Desserts
+304,Arbi Ke Kebab,Kebabs -Veg
+305,Herbs Rice Pilaf Veg,Rice & Exotic Pulaos
+306,Turkish Beryani Pilav -Mutton,Rice & Exotic Pulaos
+307,JUMBO Non Veg Kebab Meal Combo(0.6 Kg) 2-3 Persons TOPSELLER,Turkish Kebabs-Non Veg
+308,Water 01l [O],Other Beverages
+309,Garlic Naan,Breads
+310,Cheesy Oreo [o],Shakes [O]
+311,Chicken Cheese Pide,Turkish Pizzas & Pides (Non Veg)
+312,Adana Lamb Burger (MUST TRY) (NEW),"Sandwiches, Burgers, Gyros (Non Veg)"
+313,Chelow Kebab Meal (Lamb Double),Turkish Kebabs-Non Veg
+314,Lamb Gyro (Topseller),"Sandwiches, Burgers, Gyros (Non Veg)"
+315,Paneer Banjara Masala With Naan/Roti (Full),Mains -Veg
+316,Chicken Gyro (Topseller),"Sandwiches, Burgers, Gyros (Non Veg)"
+317,Persian Jujeh Kebab (Chicken),Turkish Kebabs-Non Veg
+318,Ryba's Butter Chicken (Full),Mains -Non Veg
+319,Plain Naan,Breads
+320,Chicken Lahmacun,Turkish Pizzas & Pides (Non Veg)
+321,Lamb Souvalaki Kabobs (NEW),Turkish Kebabs-Non Veg
+322,Ristretto [O],Hot Beverages
+323,Lamb Cheese Pide,Turkish Pizzas & Pides (Non Veg)
+324,Hummus Dip (160 Gms),Dips & Sides
+325,Neapolitan Calzone With Veges,Turkish Pizzas & Pides (Veg)
+326,Turkish Dolmas (Veg) (3 Pcs) (New),Mediterranean Appetizers & Mezzee (Veg)
+327,Turkish Beyti Kebab- Chicken,Mediterranean Appetizers And Mezzee (Non Veg)
+328,Classic Waffle With Choice Of Syrup,Desserts
+329,Tzatziki Dip (160 Grams),Dips & Sides
+330,Stuffed Chicken Breast (New),New Exotic Mains Mediterranean Turkish
+331,Penne Pasta Authentic Italian (veg) New,Mains -Veg
+332,Multani Paneer Tikka,Kebabs -Veg
+333,Fresh Lime soda,Other Beverages
+334,Soya Chaap Masala With Naan/Roti (Full),Mains -Veg
+335,Chelow Kebab Meal (Mix Double),Turkish Kebabs-Non Veg
+336,Fresh Lime Mix,Other Beverages
+337,Avacado And Quinoa,Salads (Veg)
+338,Penne Pasta Authetic Italian (chicken) (new),New Exotic Mains Mediterranean Turkish
+339,Tuscan Chicken (New),New Exotic Mains Mediterranean Turkish
+340,Precious Berry Brust [O],Slushy [O]
+341,Chelow Kebab Meal (Chicken Double),Turkish Kebabs-Non Veg
+342,Fresh lime Soda Mix,Other Beverages
+343,JUMBO Veg Kebab Meal Combo (0.5kg-0.6 Kg)- 2-3 Persons,Kebabs -Veg
+344,Mix Veg Handi With Naan/Roti,Mains -Veg
+345,Blueberry Basil Spritzer [o],Coolers [O]
+346,Mojito [o],Coolers [O]
+347,Tropical Slush [O],Slushy [O]
+348,Icead Tea [o],Coolers [O]
+349,Batata Harra,Kebabs -Veg
+350,Vienna [O],Hot Beverages
+351,Red Mystery [o],Shakes [O]
+352,Roti (Butter),Breads
+353,Americano [O] (Americano),Hot Beverages
+354,Mutton Lahmacun,Turkish Pizzas & Pides (Non Veg)
+355,Cold Coffee [O],Shakes [O]
+356,Lamb Kibbeh- Icli Kofte (5 Pcs) (NEW),Mediterranean Appetizers And Mezzee (Non Veg)
+357,Soft Drink [O] (Sprite),Other Beverages
+358,Chicken Lahmacun [O],Turkish Pides & Pizzas [O]
+359,Cappuccino [O] (Normal),Hot Beverages
+360,Tandoori Chicken (Full (8 Pcs)),Turkish Kebabs-Non Veg [OLN]
+361,Pita Bread,Turkish Breads [OL]
+362,Litchi Punch [o],Coolers [O]
+363,Water 500ml [O],Other Beverages
+364,Latte [O] (Normal),Hot Beverages
+365,Alinazik Kebab (Chicken+Lamb),Mediterranean Appetizers And Mezzee (Non Veg)
+366,Americano [O] (Iced Americano),Hot Beverages
+367,Turkish Beyti Kebab-(Chicken+Lamb),Mediterranean Appetizers And Mezzee (Non Veg)
+368,fresh lime,Other Beverages
+369,Turkish Beryani Pilav -Chicken,Rice & Exotic Pulaos
+370,Tomato Basil Soup,Soups
+371,Coke [O],Beverages
+372,Hot Chocolate [O],Hot Beverages
+373,Syrian Shish Tawook (Chicken) (NEW),Turkish Kebabs-Non Veg
+374,Fresh Lime Soda,Open Item
+375,Turkish Lavash [O],Breads &  Rice [O]
+376,Mezze Platter [O],Mezzes & Sides [O]
+377,Clasic Cheese Burger [O],Sandwiches & Burgers [O]
+378,Non Veg Gyro Meal (Chicken+Lamb),"Sandwiches, Burgers, Gyros (Non Veg)"
+379,Classic Caeser-Chicken,Salads (Non Veg)
+380,Turkish Dolmas (Lamb) ( 3pcs) (NEW),Mediterranean Appetizers And Mezzee (Non Veg)
+381,Add Chkn,Open Item
+382,Chicken Chelow Kebab Meal [O],RYBA's GRILL [O]
+383,Turkish Beyti Kebab-Lamb,Mediterranean Appetizers And Mezzee (Non Veg)
+384,Mutton Lahmacun [O],Turkish Pides & Pizzas [O]
+385,Classic Veg Pide With Cheese [O],Turkish Pides & Pizzas [O]
+386,pita 2 hummus,Open Item
+387,Turkish Dolmas (Veg) (3 Pcs) (New),Mediterranean Appetizers & Mezzee (Veg) [OLN]
+388,Harabara Falafel Kebab (6 Pieces) [O],RYBA's Special Kebabs Meals [O]
+389,Veg Penne Pasta [O],MAINS [O]
+390,Paneer Banjara Masala With Naan/Roti (Half),Mains -Veg
+391,Lamb Cheese Pide [O],Turkish Pides & Pizzas [O]
+392,Fatayer Sabanekh [O],Appetizers & Mezzes [O]
+393,Tea [O],Hot Beverages
+394,Cappuccino [O] (Flavoured),Hot Beverages
+395,Chicken Kesari Kebab Turkish,Turkish Kebabs & Meals (Non Veg) (OL)
+396,Chicken Gyro- Pita Sandwich [O],Sandwiches & Burgers [O]
+397,hummus pita,Open Item
+398,Italian Salisbury Steak Lamb (New),New Exotic Mains Mediterranean Turkish
+399,Rybas Red Chicken Korma (Full (8pcs)),Mains -Non Veg
+400,Mocha [O] (Flavoured),Hot Beverages
+401,Naan [O] (Butter),Breads &  Rice [O]
+402,Naan [O] (Plain),Breads &  Rice [O]
+403,op,Other Beverages
+404,pita bread 2 pcs & hummus,Open Item
+405,Mezze Platter,Mediterranean Appetizers & Mezzee (Veg) [OLN]
+406,Salted Potato Fries [O],SIDES [O]
+407,mezze platter,Open Item
+408,pita  1 & mummus,Open Item
+409,Persian Rice Saffron Flavour,Rice & Exotic Pulaos
+410,pita 1 & mummus,Open Item
+411,strawberry ice tea,Open Item
+412,bluberry basil spritzer,Open Item
+413,watermelon shurb,Open Item
+414,Muhamara Dip (160 Grms),Dips & Sides
+415,lemon ice tea,Open Item
+416,lamb gyro pita s/w,Open Item
+417,chicken korma,Open Item
+418,cheese oreo,Open Item
+419,coffe mocha,Open Item
+420,coke diet,Open Item
+421,Lavash - 80 Gms,Turkish Breads [OL]
+422,Haydari,Mezzes & Sides (OL)
+423,Classic Caeser Salad (Chicken Salad),Salads
+424,Greek Lamb Chops,RYBA's GRILL
+425,Chicken Urfa Kebab Platter,RYBA's GRILL
+426,Persian Rice Saffron Flavour,Breads &  Rice
+427,Chicken Lahmacun,Turkish Pides & Pizzas
+428,Normal Frappachino,Frappachino
+429,Diet Coke,Other Beverages
+430,Veg Falafel Meal,Pizzas & Rolls (Veg) [OL]
+431,Hummus 80 Grams,Mezzes & Sides (OL)
+432,Pide Chicken With Cheese (Boat Pizza),Pizzas & Rolls (Non Veg) [OL]
+433,Mix Chelow Kebab Meal,RYBA's GRILL
+434,Mutton Lahmacun,Turkish Pides & Pizzas
+435,Chicken Chelow Kebab Meal,RYBA's GRILL
+436,Chicken Alinazik Kebab,Appetizers & Mezzes
+437,Hummus (160 Gms),SIDES
+438,Chicken Turkish Beyti Kebab,Appetizers & Mezzes
+439,Cappuccino (Normal),Hot Beverages
+440,Lamb Adana Kebab Platter,RYBA's GRILL
+441,Water 01l,Other Beverages
+442,Watermelon Thirst,Coolers
+443,Tea,Hot Beverages
+444,Chocolate Brownie With Icecream,Deserts
+445,Rampuri Chicken Korma (Half),MAINS
+446,Roti (Butter),Breads &  Rice
+447,Naan (Butter),Breads &  Rice
+448,Soft Drink (Coke),Other Beverages
+449,Mixed Kebab Platter Non Veg - 1 Kg (d),Turkish Kebabs & Meals (Non Veg) (OL)
+450,Lamb Turkish Beyti Kebab,Appetizers & Mezzes
+451,Adana Lamb Burger,Sandwiches & Burgers
+452,Potato Fries With Peri Peri (100Gms),SIDES
+453,Freshly Baked Pita,Breads &  Rice
+454,Babaganoush Dip (160 Grams),SIDES
+455,Hydari Dip (160 Grams),SIDES
+456,Muhamara Dip (160 Grms),SIDES
+457,Chelow Kebab Mix Double Meal,Turkish Kebabs & Meals (Non Veg) (OL)
+458,Icead Tea,Coolers
+459,Americano (Iced Americano),Hot Beverages
+460,Mutton Gyro Roll,Pizzas & Rolls (Non Veg) [OL]
+461,Lamb Gyro Pita Sandwich,Sandwiches & Burgers
+462,Chicken Cheese Pide,Turkish Pides & Pizzas
+463,Multani Paneer Tikka,RYBA's GRILL
+464,Classic Veg Pide With Cheese,Turkish Pides & Pizzas
+465,fresh lime water,Other Beverages
+466,Chicken Gyro- Pita Sandwich,Sandwiches & Burgers
+467,Chicken Cheese Pide,Turkish Pides & Pizzas [O]
+468,Lamb Adana Kebab Platter,RYBA's GRILL [O]
+469,Non-Veg Penne Pasta,MAINS
+470,pita hummus,Other Beverages
+471,Adana Kebab-Turkish,Turkish Kebabs & Meals (Non Veg) (OL)
+472,Mutton Gyro Roll  (d),Pizzas & Rolls (Non Veg) [OL]
+473,Chicken Gyro Roll,Pizzas & Rolls (Non Veg) [OL]
+474,Tropical Slush,Slushy
+475,Precious Berry Brust,Slushy
+476,Harabara Kebab (6 Pcs) With 200 Ml Dal Makhani And Tandoori Lavash Roti [D],Veg Starters [OL]
+477,Mix Alinazik Kebab,Appetizers & Mezzes
+478,Ryba Beyti Kebab (Turkish Lasagne) NEW (Beyti Kebab Chicken),Turkish Kebabs & Meals (Non Veg) (OL)
+479,Avacado And Quinoa Salad,Salads
+480,Turkish Mutton Lahmacun Pizza,Pizzas & Rolls (Non Veg) [OL]
+481,Chicken Urfa Kebab Turkish,Turkish Kebabs & Meals (Non Veg) (OL)
+482,Chelow Kebab Chicken Double Meal,Turkish Kebabs & Meals (Non Veg) (OL)
+483,Veg Penne Pasta,MAINS
+484,The Mezze Platter,Appetizers & Mezzes
+485,Afghani Malai Soya Chaap,RYBA's GRILL
+486,Turkish Lavash,Breads &  Rice
+487,Roti (d),Indian Breads [OL]
+488,Paneer Banjara Masala With Roti,MAINS
+489,Non Veg Gyro Meal Chicken+Mutton,Pizzas & Rolls (Non Veg) [OL]
+490,Blueberry Blitz,Slushy
+491,Lamb Cheese Pide,Turkish Pides & Pizzas
+492,Lamb Chelow Kebab Meal,RYBA's GRILL
+493,Naan (Garlic),Breads &  Rice
+494,Persian Chicken Jujeh Kebab Platter,RYBA's GRILL
+495,Falafel Pita Roll,Appetizers & Mezzes
+496,Tandoori Chicken (Quarter (2 Pcs)),Non Veg Starters [OL]
+497,Multani Paneer Tikka 8 Pcs With 200 Ml Dal Makhni & Tandoori Lavash Roti,Veg Starters [OL]
+498,Veg Chatpata Falafel Roll,Pizzas & Rolls (Veg) [OL]
+499,Chicken Urfa Burger,Sandwiches & Burgers
+500,Litchi Punch,Coolers
+501,Stuffed Chicken Breast,MAINS
+502,Gyro Rolls (Chicken),Sandwiches & Burgers
+503,Mix Soya Chaap (8 Pcs) With 200 Ml Dal Makhani & Tandoori Lavash Roti.,Veg Starters [OL]
+504,Paneer Banjara Masala (Half),Veg Main Course [OL]
+505,Butter Naan,Indian Breads [OL]
+506,Garlic Naan,Indian Breads [OL]
+507,Spicy Guava Merry,Coolers
+508,Rampuri Chicken Korma (Full),MAINS
+509,Yellow Rice  (d),Rice [OL]
+510,Dal Makhani With Naan,MAINS
+511,Americano (Americano),Hot Beverages
+512,Blueberry Basil Spritzer,Coolers
+513,Kafir Passion Fizz,Coolers
+514,Mojito,Coolers
+515,Ryba Red Chicken Korma (Quarter [2 pieces]),Non Veg Main Course [OL]
+516,Mocha (Normal),Hot Beverages
+517,Ryba Alinazik Kebab NEW (Alinazik Chicken Kebab),Turkish Kebabs & Meals (Non Veg) (OL)
+518,Lamb Alinazik Kebab,Appetizers & Mezzes
+519,Red Mystery,Shakes
+520,Turkish Chicken Lahmacun Pizza,Pizzas & Rolls (Non Veg) [OL]
+521,Classic Waffle,Deserts
+522,Mezze Platter,Mezzes & Sides (OL)
+523,Paneer Banjara Masala With Naan,MAINS
+524,Tandoori Chicken (Full (8 Pcs)),Non Veg Starters [OL]
+525,Tandoori Chicken (Half [4 pieces]),Non Veg Starters [OL]
+526,Dal Makhani With Roti,MAINS
+527,Cappuccino (Flavoured),Hot Beverages
+528,Doppio,Hot Beverages
+529,Dal Makhani,Veg Main Course [OL]
+530,Stuffed Onion Kulcha,Indian Breads [OL]
+531,Butter Chicken Ryba Special (Half [4 Pieces]),Non Veg Main Course [OL]
+532,Tandoori Roti,Indian Breads [OL]
+533,Laccha Paratha,Indian Breads [OL]
+534,Gyro Rolls (Mutton),Sandwiches & Burgers
+535,Mix Turkish Beyti Kebab,Appetizers & Mezzes
+536,Grilled Mutton Chopan Chops-Turkish,Turkish Kebabs & Meals (Non Veg) (OL)
+537,Watermelon Basil Shrub,Slushy
+538,Grilled Mutton Chopan Chops 04pcs,RYBA's GRILL
+539,Laccha Paratha [D],Indian Breads [OL]
+540,Flavoured Frappachino,Frappachino
+541,Fresh Lime Salted,Other Beverages
+542,Ryba Veg Pizza,Turkish Pides & Pizzas
+543,Choco Strawberry,Shakes
+544,Ryba Beyti Kebab (Turkish Lasagne) NEW (Beyti Kebab Mutton),Turkish Kebabs & Meals (Non Veg) (OL)
+545,Vienna,Hot Beverages
+546,Mr. Butterscotch,Shakes
+547,Chelow Kebab Mutton Double Meal,Turkish Kebabs & Meals (Non Veg) (OL)
+548,Mix Soya Chaap (8 Pcs) With 200 Ml Dal Makhani & Tandoori Lavash Roti. [d],Veg Starters [OL]
+549,Cold Coffee,Shakes
+550,Yellow Rice 300 Gms,Rice [OL]
+551,Pita Bread,Breads &  Rice
+552,Ryba Red Chicken Korma (Full[8 pieces]),Non Veg Main Course [OL]
+553,Plain Naan,Indian Breads [OL]
+554,Ryba Red Chicken Korma (Half [4 pieces]),Non Veg Main Course [OL]
+555,Italian Wedding Soup,Soups
+556,Pide Veg With Cheese (Turkish Pizza),Pizzas & Rolls (Veg) [OL]
+557,Harabara Falafel Kebab (6 Pieces),Turkish Kebabs & Meals (Non Veg) (OL)
+558,Mixed Kebab Platter Non Veg - 1 Kg,Turkish Kebabs & Meals (Non Veg) (OL)
+559,Roti (Plain),Breads &  Rice
+560,Water 500ml,Other Beverages
+561,Ryba Alinazik Kebab NEW (Alinazik (Mutton + Chicken) Mix Kebab),Turkish Kebabs & Meals (Non Veg) (OL)
+562,Honey Chilly Potatoes- 180 Gms [d],Veg Starters [OL]
+563,Veg Seekh Kebab(6 Pcs) With 200 Ml Dal Makhani And Tandoori Lavash Roti [D],Veg Starters [OL]
+564,Paneer Multani (4 Pieces) (d),Veg Starters [OL]
+565,Naan (Plain),Breads &  Rice
+566,Fries (100 Gms),Mezzes & Sides (OL)
+567,"Chicken Malai Tikka ( 200 Gms,  8 Pcs) With Dal Makhani And Tandoori Lavash Roti [D]",Non Veg Starters [OL]
+568,"Harayali Pahadi Murg Tikka (200 Gms, 8 Pcs) With Dal Makahani And Tandoori Lavash Roti",Non Veg Starters [OL]
+569,Buratta Green Salad,Salads
+570,Salted Potato Fries,SIDES
+571,Yummy Kiwi,Shakes
+572,Ryba Alinazik Kebab NEW (Alinazik Mutton Kebab),Turkish Kebabs & Meals (Non Veg) (OL)
+573,Ryba Beyti Kebab (turkish Lasagne) NEW (Beyti (Mutton+Chicken) Mix Kebab),Turkish Kebabs & Meals (Non Veg) (OL)
+574,Tandoori Chicken [d] (Full (8 Pcs)),Non Veg Starters [OL]
+575,Blueberry Blush,Shakes
+576,Mutton Chaap Toofani ( 4 Pieces),Turkish Kebabs & Meals (Non Veg) (OL)
+577,Hot Chocolate,Hot Beverages
+578,Butter Chicken Ryba Special  [d] (Half [4 pieces]),Non Veg Main Course [OL]
+579,Clasic Cheese Burger,Sandwiches & Burgers
+580,Cheesy Oreo,Shakes
+581,Baba Ghanoush (80 Gm),Mezzes & Sides (OL)
+582,Macchiato,Hot Beverages
+583,Americano,Hot Beverages
+584,Lebanese Fateh With Diced Chicken,Salads
+585,Latte (Normal),Hot Beverages
+586,Classic Veg Pide,Turkish Pides & Pizzas
+587,Naan,Breads &  Rice
+588,Chicken Gyro Roll (d),Pizzas & Rolls (Non Veg) [OL]
+589,Non Veg Gyro Meal Chicken+mutton (d),Pizzas & Rolls (Non Veg) [OL]
+590,"Chicken Malai Tikka ( 200 Gms,  8 Pcs) With Dal Makhani And Tandoori Lavash Roti",Non Veg Starters [OL]
+591,Multani Chaap Pasanda (Half),Veg Main Course [OL]
+592,Roti,Breads &  Rice
+593,Ryba Beyti Kebab (Beyti Kebab Chicken),Turkish Kebabs & Meals (Non Veg) (OL)
+594,Chicken Kesari Kebab (8 Pieces) (d),Turkish Kebabs & Meals (Non Veg) (OL)
+595,Multani Chaap Pasanda Half (d) (Full),Veg Main Course [OL]
+596,Tandoori Roti [D],Indian Breads [OL]
+597,Garlic Naan [D],Indian Breads [OL]
+598,Mezze Platter (d),Mezzes & Sides (OL)
+599,Alinazik Kebab (Alinazik Chicken Kebab),Turkish Kebabs & Meals (Non Veg) (OL)
+600,Ryba Beyti Kebab (Beyti (Mutton+Chicken) Mix Kebab),Turkish Kebabs & Meals (Non Veg) (OL)
+601,Pide Chicken With Cheese (d),Pizzas & Rolls (Non Veg) [OL]
+602,Paneer Butter Masala,Veg Main Course [OL]
+603,Pide Mutton With Cheese (Boat Pizza),Pizzas & Rolls (Non Veg) [OL]
+604,Mocha (Flavoured),Hot Beverages
+605,Bazlama (Turkish Khameri Roti) - 200 Gms,Turkish Breads [OL]
+606,Coke 300 Ml,Beverages (OL)
+607,Dal Makhani (d),Veg Main Course [OL]
+608,Water 500 Ml,Beverages
+609,Adana Kebab Mutton (2 Pieces - 10-11 Inches) Spicy (d),Turkish Kebabs & Meals (Non Veg) (OL)
+610,Chicken Urfa Kebab (2 Pieces - 10-11 Inches) (d),Turkish Kebabs & Meals (Non Veg) (OL)
+611,Diet Coke 300 Ml,Beverages
+612,Alinazik Kebab (Alinazik Mutton Kebab),Turkish Kebabs & Meals (Non Veg) (OL)
+613,Lahmacun Turkish Mutton Pizza (d),Pizzas & Rolls (Non Veg) [OL]
+614,Pita Bread (d),Turkish Breads [OL]
+615,Pide Veg With Cheese (turkish Pizza) [ol],Pizzas & Rolls (Veg) [OL]
+616,Paneer Banjara Masala Half (d) (Full),Veg Main Course [OL]
+617,Lavash (d),Turkish Breads [OL]
+618,Coke,Beverages
+619,Chicken Chaapli Kebab (Shinwari) - ( 4 Pc /200 Grams) With Dal Makhani And Tandoori Lavash Roti,Non Veg Starters [OL]
+620,Pide Mutton With Cheese (d),Pizzas & Rolls (Non Veg) [OL]
+621,Diet Coke,Beverages (OL)
+622,Chicken Chaap Toofani (4 Pieces) (d),Turkish Kebabs & Meals (Non Veg) (OL)
+623,Ryba Shahi White Chicken Korma (Half Boneless [ 8 Pieces]),Non Veg Main Course [OL]
+624,Chelow Kebab Mix Double Meal [d],Turkish Kebabs & Meals (Non Veg) (OL)
+625,Grilled Mutton Chopan Chops (4 Pieces) (d),Turkish Kebabs & Meals (Non Veg) (OL)
+626,Veg Falafel Meal (d),Pizzas & Rolls (Veg) [OL]
+627,Ryba Shahi White Chicken Korma (Quarter Boneless [ 4 pieces]),Non Veg Main Course [OL]
+628,Chicken Chaap Toofani (4 Pieces),Turkish Kebabs & Meals (Non Veg) (OL)
+629,Alinazik Kebab (Alinazik (Mutton + Chicken) Mix Kebab),Turkish Kebabs & Meals (Non Veg) (OL)
+630,Haydari (D),Mezzes & Sides (OL)
+631,Baba Ghanoush (80 Gm) (D),Mezzes & Sides (OL)
+632,Mutton Chaap Toofani ( 4 Pieces) (d),Turkish Kebabs & Meals (Non Veg) (OL)
+633,Ryba Red Mutton Korma(2 Pieces) (d) (Full [4 Pieces]),Non Veg Main Course [OL]
+634,Hummus,Mezzes & Sides
+635,Item 1,Deserts
+636,Tandoori Chicken [d] (Half [4 pieces]),Non Veg Starters [OL]
+637,"Shinwari Mutton Chaapli Kebab (4 Pcs, 180 Gms) [d]",Non Veg Starters [OL]
+638,Ryba Red Chicken Korma (2 Pieces ) (d) (Quarter [2 pieces]),Non Veg Main Course [OL]
+639,Paneer Banjara Masala Half (d) (Half),Veg Main Course [OL]
+640,Veg Chatpata Falafel Roll (d),Pizzas & Rolls (Veg) [OL]
+641,Stuffed Onion Kulcha [D],Indian Breads [OL]
+642,Ryba Shahi White Chicken Korma Bonless (4 Pieces) (d) (Quarter Boneless [ 4 pieces]),Non Veg Main Course [OL]
+643,Butter Naan [D],Indian Breads [OL]
+644,Muhamarra Spicy Turkish Dip 80 Grams,Mezzes & Sides (OL)
+645,"Chicken Malai Tikka ( 200 Gms, 8 Pcs) With Dal Makhani And Tandoori Lavash Roti",Non Veg Starters [OL]
+646,Lahmacun Turkish Chicken Pizza (d),Pizzas & Rolls (Non Veg) [OL]
+647,Dahi Kebab ( 6 Pcs) With 200 Ml Dal Makhani And Tandoori Lavash Roti,Veg Starters [OL]
+648,Ryba Red Mutton Korma (Half [2 Pieces]),Non Veg Main Course [OL]
+649,Tandoori Chicken [d] (Quarter (2 Pcs)),Non Veg Starters [OL]
+650,Ryba Red Chicken Korma (2 Pieces ) (d) (Full[8 pieces]),Non Veg Main Course [OL]
+651,Bazlama (d),Turkish Breads [OL]
+652,Ryba Red Chicken Korma (2 Pieces ) (d) (Half [4 pieces]),Non Veg Main Course [OL]
+653,Chicken Safran Kebab Roll,Turkish Kebabs & Meals (Non Veg) (OL)
+654,Multani Chaap Pasanda (Full),Veg Main Course [OL]
+655,"Mutton Chaapli Kebab (Shinwari) (4 Pcs, 180 Gms)",Non Veg Starters [OL]
+656,Plain Naan [D],Indian Breads [OL]
+657,Fries (100 Gms) (d),Mezzes & Sides (OL)
+658,Ryba Red Mutton Korma(2 Pieces) (d) (Half [2 Pieces]),Non Veg Main Course [OL]
+659,"Chicken Smoked Biryani (500gms, 4 Pc)",Rice [OL]
+660,Pide Veg With Cheese Turkish Pizza,Pizzas & Rolls (Veg)
+661,Multani Chaap Pasanda Half (d) (Half),Veg Main Course [OL]
+662,Harabara Falafel Kebab (6 Pieces) (d),Turkish Kebabs & Meals (Non Veg) (OL)
+663,Paneer Banjara Masala (Full),Veg Main Course [OL]
+664,Mezze Platter,Mezzes & Sides
+665,Chicken Urfa Kebab Roll,Ryba Kebab Rolls (OL)
+666,Ryba Beyti Kebab (Beyti Kebab Mutton),Turkish Kebabs & Meals (Non Veg) (OL)
+667,Dahi Kebab ( 6 Pcs) With 200 Ml Dal Makhani And Tandoori Lavash Roti [D],Veg Starters [OL]
+668,Kadhai Paneer [D],Veg Main Course [OL]
+669,Yellow Dal Tadka [D],Veg Main Course [OL]
+670,Ryba Red Mutton Korma (Full [4 Pieces]),Non Veg Main Course [OL]
+671,"Chicken Smoked Biryani (1000gms, 8 pc)",Rice [OL]
+672,Palak Paneer [D],Veg Main Course [OL]
+673,Harabara Falafel Kebab (6 Pieces),RYBA's Special Kebabs Meals
+674,Haydari,Mezzes & Sides
+675,"Chicken Smoked Biryani (750gms, 6 Pc)",Rice [OL]
+676,Butter Chicken Ryba Special  [d] (Full[8 pieces]),Non Veg Main Course [OL]
+677,Paneer Butter Masala [d],Veg Main Course [OL]
+678,Butter Chicken Ryba Special (Full[8 Pieces]),Non Veg Main Course [OL]
+679,Fries,Mezzes & Sides
+680,Mutton Chopan Chops (4 Pieces),RYBA's Special Kebabs Meals
+681,"Mutton Chaapli Kebab (shinwari)  (4 Pcs, 180 Gms)",Non Veg Starters [OL]
+682,"Harayali Pahadi Murg Tikka (200 Gms, 8 Pcs) With Dal Makahani And Tandoori Lavash Roti [d]",Non Veg Starters [OL]
+683,Mixed Kebab Platter Non Veg - 2 Kg (d),Turkish Kebabs & Meals (Non Veg) (OL)
+684,Yellow Dal Tadka,Veg Main Course [OL]
+685,Kadhai Paneer,Veg Main Course [OL]
+686,Beetroot And Cheese Kofte Kebab (6 Pcs) With 200 Ml Dal Makhani & Tandoori Lavash Roti [D],Veg Starters [OL]
+687,Ryba Shahi White Mutton Korma (Half [2 Pieces]),Non Veg Main Course [OL]
+688,Veg Khumb Paneer Biryani (1000gms),Rice [OL]
+689,Veg Burasi Kebab,Turkish Kebabs & Meals (Non Veg) (OL)
+690,Palak Paneer,Veg Main Course [OL]
+691,Shinwari Chicken Chaapli Kebab - ( 4 Pc /200 Grams) With Dal Makhani And Tandoori Lavash Roti [d],Non Veg Starters [OL]
+692,Ryba Shahi White Chicken Korma Bonless (4 Pieces) (d) (Half Boneless [ 8 pieces]),Non Veg Main Course [OL]
+693,Honey Chilly Potatoes- 180 Gms,Veg Starters [OL]
